@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html lang="da">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/icons/site.webmanifest">
+    <meta name="theme-color" content="#c8c8c6">
+
+    <title>Kirsten Stubben</title>
+    <link rel="stylesheet" href="/style.css"> 
+    <script src="/navbar.js" defer></script> 
+    <script src="/app.js" defer></script> 
+
+    <style>
+        .billede {
+            width: 100%;
+            height: auto;
+            max-width: 400px;    
+        }
+
+        #galleri p {            
+            line-height:140%;
+        }
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+        </nav>
+    </header>
+    <section>
+        <!-- <h1>Billede</h1> -->
+        <div id="galleri" style="cursor: pointer;">
+        </div>
+    </section>
+    <footer>        
+    </footer>
+    
+    <script>
+
+        const params = new URLSearchParams(window.location.hash.substr(1));
+        const id=params.get("id");
+
+        function displayImages(data){
+        let galleri=document.getElementById("galleri");
+        galleri.innerHTML=data
+            .filter((data)=>{
+                return data.filename===id && data.hidden!==true
+            })
+            .map((item)=>{
+                let subtext="";
+                if(item.title) subtext+=`<p><b>${item.title}</b> </p>`
+                if(item.size) subtext+=`<p>${item.size} </p>`
+                subtext+=`<p>Akryl på lærred </p>`
+                if(item.price) subtext+=`<p><b>${item.price}</b> </p>`
+                if(item.sold===true) subtext+=`<p><b>SOLGT</b> </p>`
+                return  `                
+                <img class="billede" id="billede" style="pointer-events:unset;"  src="/billeder/${item.filename}" alt="Kirsten Stubben">
+                <div>
+                    ${subtext}
+                </div>
+                `  
+            }).join("\n");            
+        }
+
+   
+    fetch('/billeder.json')
+    .then((response) => response.json())
+    .then((json) =>  displayImages(json));
+
+    
+    //
+    let lastPageUrl = document.referrer
+    if(lastPageUrl){
+        let lasturl=new URL(lastPageUrl);
+        if(lasturl.pathname=="/galleri.html"){
+
+            document.getElementById("galleri").addEventListener("click",()=>
+            { 
+               /*  window.history.back(); */
+               window.history.go(-1);//Forsøg at få browser til at gå tilbage på samme scroll position
+            });           
+        }
+        else {            
+            document.getElementById("galleri").addEventListener("click",()=>
+            { 
+                window.location.pathname = ('/galleri.html')
+            });
+        }
+
+    }
+    else 
+    {
+        document.getElementById("galleri").addEventListener("click",()=>
+        { 
+             window.location.pathname = ('/galleri.html')
+        });
+    }
+
+    </script>
+</body>
+
+</html>

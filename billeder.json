@@ -1,0 +1,692 @@
+[   
+    {
+    "title":"Fantasyland",
+    "filename": "tr090.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 155
+    }, 
+    {
+    "title":"Dusty Weather",
+    "filename": "tr091.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 120
+    },   
+    {
+    "title":"Skovs ende",
+    "filename": "tr092.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 115
+    },    
+    {
+    "title":"Træfødder",
+    "filename": "tr093.jpg",
+    "price": "",
+    "sold": false,
+    "size":"90 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 110
+    },      
+    {
+    "title":"Trees are blue 2",
+    "filename": "tr094.jpg",
+    "price": "",
+    "sold": true,
+    "size":"120 x 100 cm.",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 135
+    },   
+    {
+    "title":"Trees are blue",
+    "filename": "tr095.jpg",
+    "price": "",
+    "sold": true,
+    "size":"90 x 90 cm.",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 130
+    },  
+    {
+    "title":"Grejsdal view",
+    "filename": "tr096.jpg",
+    "price": "",
+    "sold": true,
+    "size":"80 x 90 cm.",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 125
+    }, 
+    {
+    "title":"Vejen til Ingenmandsland",
+    "filename": "tr098.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 150
+    }, 
+    {
+    "title":"Månegang",
+    "filename": "tr099.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 145
+    },
+    {
+    "title":"Træer på tæer",
+    "filename": "tr100.jpg",
+    "price": "",
+    "sold": false,
+    "size":"90 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 140
+    },    
+    {
+    "title":"Motiv Den genfundne bro",
+    "filename": "la117.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },
+    {
+    "title":"Hvor lagde jeg lige avisen?",
+    "filename": "la115.jpg",
+    "price": "",
+    "sold": true,
+    "size":"100 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },     
+    {
+    "title":"Venter på sommervand",
+    "filename": "la114.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },     
+    {
+    "title":"Udsigt i udkanten",
+    "filename": "la113.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },     
+    {
+    "title":"Langs stranden As Vig",
+    "filename": "la112.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },     
+    {
+    "title":"Udsigt langs vejen",
+    "filename": "la111.jpg",
+    "price": "",
+    "sold": true,
+    "size":"120 x 120 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },    
+    {
+    "title":"Langt højere bjerge",
+    "filename": "la110.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },    
+    {
+    "title":"Hvor blev de andre af?",
+    "filename": "la097.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },    
+    {
+    "title":"Ved Vejle Å",
+    "filename": "la088.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },    
+    {
+    "title":"Udsigt undervejs I",
+    "filename": "la082.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 40 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },    
+    {
+    "title":"Udsigt undervejs II",
+    "filename": "la081.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },
+    {
+    "title":"Udsigt undervejs III",
+    "filename": "la080.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 40 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },    
+    {
+    "title":"Blå bjerge",
+    "filename": "la078.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },   
+    {
+    "title":"Over heden",
+    "filename": "la077.jpg",
+    "price": "",
+    "sold": true,
+    "size":"100 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },    
+    {
+    "title":"I det fjerne",
+    "filename": "la076.jpg",
+    "price": "",
+    "sold": false,
+    "size":"120 x 100 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },      
+    {
+    "title":"Tulipanfornøjelse",
+    "filename": "bl101.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },     
+    {
+    "title":"Gule blomster",
+    "filename": "bl100.jpg",
+    "price": "",
+    "sold": true,
+    "size":"70 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },    
+    {
+    "title":"Forårsparade",
+    "filename": "bl099.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },    
+    {
+    "title":"På den hvide terrasse",
+    "filename": "bl098.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },    
+    {
+    "title":"Krukkeliv",
+    "filename": "bl097.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },    
+    {
+    "title":"Når kirsebærtræerne blomstrer",
+    "filename": "bl096.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },    
+    {
+    "title":"Flyttedag",
+    "filename": "bl095.jpg",
+    "price": "",
+    "sold": true,
+    "size":"80 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },   
+    {
+    "title":"Udsigt til sommer",
+    "filename": "bl094.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    }, 
+    {
+    "title":"Havens flora I",
+    "filename": "bl092.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },    
+    {
+    "title":"Havens flora II",
+    "filename": "bl091.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },    
+    {
+    "title":"Street Art Nyans, Frankrig",
+    "filename": "bl090.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },    
+    {
+    "title":"Street Art Tyskland",
+    "filename": "bl089.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    } ,   
+    {
+    "title":"Street art Euguisheim, Frankrig ",
+    "filename": "bl088.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    } ,   
+    {
+    "title":"Street Art Vietnam",
+    "filename": "bl087.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    }  ,  
+    {
+    "title":"Street Art Noldes have, Tyskland",
+    "filename": "bl086.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },   
+    {
+    "title":"Efterårsløv",
+    "filename": "bl084.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },   
+    {
+    "title":"Hvor går vi hen?",
+    "filename": "ab090.jpg",
+    "price": "",
+    "sold": true,
+    "size":"90 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },   
+    {
+    "title":"Gyngestol",
+    "filename": "ab091.jpg",
+    "price": "",
+    "sold": true,
+    "size":"80 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 700
+    },   
+    {
+    "title":"Opstilling på bord",
+    "filename": "ab092.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },   
+    {
+    "title":"Zebrasjov",
+    "filename": "ab093.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },   
+    {
+    "title":"Krukkeri I",
+    "filename": "ab094.jpg",
+    "price": "",
+    "sold": true,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },   
+    {
+    "title":"Te med boller",
+    "filename": "ab095.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },   
+    {
+    "title":"Krukker på bord I",
+    "filename": "ab096.jpg",
+    "price": "",
+    "sold": true,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },   
+    {
+    "title":"Udsigt Dollerup bakker",
+    "filename": "cb093.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Akryl på papir - cirkelbillede",
+    "hidden":false,
+    "order": 600
+    },   
+    {
+    "title":"Fokus 7-års-søerne",
+    "filename": "cb095.jpg",
+    "price": "",
+    "sold": false,
+    "size":"30 x 40 cm",
+    "teknik":"Akryl på papir - cirkelbillede",
+    "hidden":false,
+    "order": 600
+    },   
+    {
+    "title":"Køkkeninteriør",
+    "filename": "cb096.jpg",
+    "price": "",
+    "sold": false,
+    "size":"30 x 30 cm",
+    "teknik":"Akryl på papir - cirkelbillede",
+    "hidden":false,
+    "order": 600
+    },   
+    {
+    "title":"Havestuen",
+    "filename": "cb097.jpg",
+    "price": "",
+    "sold": false,
+    "size":"30 x 30 cm",
+    "teknik":"Akryl på papir - cirkelbillede",
+    "hidden":false,
+    "order": 600
+    },   
+    {
+    "title":"Afslapning",
+    "filename": "cb098.jpg",
+    "price": "",
+    "sold": false,
+    "size":"30 x 40 cm",
+    "teknik":"Akryl på papir - cirkelbillede",
+    "hidden":false,
+    "order": 600
+    },   
+    {
+    "title":"Pæleløb",
+    "filename": "cb099.jpg",
+    "price": "",
+    "sold": true,
+    "size":"40 x 30 cm",
+    "teknik":"Akryl på papir - cirkelbillede",
+    "hidden":false,
+    "order": 600
+    },   
+    {
+    "title":"Glemte lige avisen...",
+    "filename": "ss089.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 500
+    },   
+    {
+    "title":"Te i haven",
+    "filename": "ss091.jpg",
+    "price": "",
+    "sold": true,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 500
+    },   
+    {
+    "title":"Sommerliv - katteliv",
+    "filename": "ss095.jpg",
+    "price": "",
+    "sold": true,
+    "size":"90 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 500
+    },   
+    {
+    "title":"Cykeltur i haven",
+    "filename": "ss096.jpg",
+    "price": "",
+    "sold": true,
+    "size":"50 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 500
+    },   
+    {
+    "title":"Slap af",
+    "filename": "ss097.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 500
+    },   
+    {
+    "title":"Cykelhvil",
+    "filename": "ss098.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 70 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 500
+    },   
+    {
+    "title":"Oh hav I",
+    "filename": "oh001.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 40 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 400
+    },   
+    {
+    "title":"Oh hav II",
+    "filename": "oh002.jpg",
+    "price": "",
+    "sold": true,
+    "size":"50 x 40 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 400
+    },   
+    {
+    "title":"Oh hav III",
+    "filename": "oh003.jpg",
+    "price": "",
+    "sold": true,
+    "size":"50 x 40 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 400
+    },   
+    {
+    "title":"Oh hav IV",
+    "filename": "oh004.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 40 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 400
+    },   
+    {
+    "title":"Grøftekantsplanter I",
+    "filename": "mo001.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Monotypi",
+    "hidden":false,
+    "order": 450
+    },   
+    {
+    "title":"Grøftekantsplanter II",
+    "filename": "mo002.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Monotypi",
+    "hidden":false,
+    "order": 450
+    },   
+    {
+    "title":"Grøftekantsplanter III",
+    "filename": "mo003.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Monotypi",
+    "hidden":false,
+    "order": 450
+    },   
+    {
+    "title":"Værsgo' og sid",
+    "filename": "hh097.jpg",
+    "price": "",
+    "sold": true,
+    "size":"50 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 550
+    },   
+    {
+    "title":"Høns i rosenhaven",
+    "filename": "hh099.jpg",
+    "price": "",
+    "sold": true,
+    "size":"70 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 550
+    }
+]
