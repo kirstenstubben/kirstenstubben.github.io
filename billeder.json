@@ -14,9 +14,9 @@
     "filename": "tr091.jpg",
     "price": "",
     "sold": false,
-    "size":"70 x 80 cm",
+    "size":"80 x 70 cm",
     "teknik":"Akryl på lærred",
-    "hidden":false,
+    "hidden":false
     "order": 120
     },   
     {
@@ -24,7 +24,7 @@
     "filename": "tr092.jpg",
     "price": "",
     "sold": false,
-    "size":"70 x 80 cm",
+    "size":"80 x 70 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 115
@@ -34,7 +34,7 @@
     "filename": "tr093.jpg",
     "price": "",
     "sold": false,
-    "size":"90 x 70 cm",
+    "size":"70 x 90 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 110
@@ -44,7 +44,7 @@
     "filename": "tr094.jpg",
     "price": "",
     "sold": true,
-    "size":"120 x 100 cm.",
+    "size":"100 x 120 cm.",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 135
@@ -64,7 +64,7 @@
     "filename": "tr096.jpg",
     "price": "",
     "sold": true,
-    "size":"80 x 90 cm.",
+    "size":"90 x 80 cm.",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 125
@@ -74,7 +74,7 @@
     "filename": "tr098.jpg",
     "price": "",
     "sold": false,
-    "size":"80 x 60 cm",
+    "size":"60 x 80 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 150
@@ -84,7 +84,7 @@
     "filename": "tr099.jpg",
     "price": "",
     "sold": false,
-    "size":"80 x 60 cm",
+    "size":"60 x 80 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 145
@@ -94,7 +94,7 @@
     "filename": "tr100.jpg",
     "price": "",
     "sold": false,
-    "size":"90 x 80 cm",
+    "size":"80 x 90 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 140
@@ -104,7 +104,7 @@
     "filename": "la117.jpg",
     "price": "",
     "sold": false,
-    "size":"60 x 70 cm",
+    "size":"70 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -114,7 +114,7 @@
     "filename": "la115.jpg",
     "price": "",
     "sold": true,
-    "size":"100 x 80 cm",
+    "size":"80 x 100 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -124,7 +124,7 @@
     "filename": "la114.jpg",
     "price": "",
     "sold": true,
-    "size":"60 x 50 cm",
+    "size":"50 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -134,7 +134,7 @@
     "filename": "la113.jpg",
     "price": "",
     "sold": true,
-    "size":"60 x 50 cm",
+    "size":"50 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -144,7 +144,7 @@
     "filename": "la112.jpg",
     "price": "",
     "sold": true,
-    "size":"60 x 50 cm",
+    "size":"50 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -164,7 +164,7 @@
     "filename": "la110.jpg",
     "price": "",
     "sold": false,
-    "size":"80 x 70 cm",
+    "size":"70 x 80 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -174,7 +174,7 @@
     "filename": "la097.jpg",
     "price": "",
     "sold": false,
-    "size":"80 x 70 cm",
+    "size":"70 x 80 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -184,7 +184,7 @@
     "filename": "la088.jpg",
     "price": "",
     "sold": false,
-    "size":"70 x 60 cm",
+    "size":"60 x 70 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -194,7 +194,7 @@
     "filename": "la082.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 40 cm",
+    "size":"40 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -214,7 +214,7 @@
     "filename": "la080.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 40 cm",
+    "size":"40 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -224,7 +224,7 @@
     "filename": "la078.jpg",
     "price": "",
     "sold": false,
-    "size":"70 x 90 cm",
+    "size":"90 x 70 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -234,7 +234,7 @@
     "filename": "la077.jpg",
     "price": "",
     "sold": true,
-    "size":"100 x 80 cm",
+    "size":"80 x 100 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -244,7 +244,7 @@
     "filename": "la076.jpg",
     "price": "",
     "sold": false,
-    "size":"120 x 100 cm",
+    "size":"100 x 120 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -254,7 +254,7 @@
     "filename": "bl101.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -264,7 +264,7 @@
     "filename": "bl100.jpg",
     "price": "",
     "sold": true,
-    "size":"70 x 60 cm",
+    "size":"60 x 70 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -274,7 +274,7 @@
     "filename": "bl099.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -284,7 +284,7 @@
     "filename": "bl098.jpg",
     "price": "",
     "sold": false,
-    "size":"60 x 70 cm",
+    "size":"70 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -294,7 +294,7 @@
     "filename": "bl097.jpg",
     "price": "",
     "sold": true,
-    "size":"60 x 70 cm",
+    "size":"70 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -304,7 +304,7 @@
     "filename": "bl096.jpg",
     "price": "",
     "sold": false,
-    "size":"70 x 90 cm",
+    "size":"90 x 70 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -324,7 +324,7 @@
     "filename": "bl094.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -334,7 +334,7 @@
     "filename": "bl092.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -344,7 +344,7 @@
     "filename": "bl091.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -354,7 +354,7 @@
     "filename": "bl090.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -364,7 +364,7 @@
     "filename": "bl089.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -374,7 +374,7 @@
     "filename": "bl088.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -384,7 +384,7 @@
     "filename": "bl087.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -394,7 +394,7 @@
     "filename": "bl086.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -404,7 +404,7 @@
     "filename": "bl084.jpg",
     "price": "",
     "sold": false,
-    "size":"80 x 90 cm",
+    "size":"90 x 80 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -424,7 +424,7 @@
     "filename": "ab091.jpg",
     "price": "",
     "sold": true,
-    "size":"80 x 90 cm",
+    "size":"90 x 80 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 700
@@ -434,7 +434,7 @@
     "filename": "ab092.jpg",
     "price": "",
     "sold": true,
-    "size":"60 x 80 cm",
+    "size":"80 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 900
@@ -454,7 +454,7 @@
     "filename": "ab094.jpg",
     "price": "",
     "sold": true,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 900
@@ -464,7 +464,7 @@
     "filename": "ab095.jpg",
     "price": "",
     "sold": true,
-    "size":"60 x 80 cm",
+    "size":"80 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 900
@@ -474,7 +474,7 @@
     "filename": "ab096.jpg",
     "price": "",
     "sold": true,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 900
@@ -484,7 +484,7 @@
     "filename": "cb093.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Akryl på papir - cirkelbillede",
     "hidden":false,
     "order": 600
@@ -494,7 +494,7 @@
     "filename": "cb095.jpg",
     "price": "",
     "sold": false,
-    "size":"30 x 40 cm",
+    "size":"40 x 30 cm",
     "teknik":"Akryl på papir - cirkelbillede",
     "hidden":false,
     "order": 600
@@ -524,7 +524,7 @@
     "filename": "cb098.jpg",
     "price": "",
     "sold": false,
-    "size":"30 x 40 cm",
+    "size":"40 x 30 cm",
     "teknik":"Akryl på papir - cirkelbillede",
     "hidden":false,
     "order": 600
@@ -534,7 +534,7 @@
     "filename": "cb099.jpg",
     "price": "",
     "sold": true,
-    "size":"40 x 30 cm",
+    "size":"30 x 40 cm",
     "teknik":"Akryl på papir - cirkelbillede",
     "hidden":false,
     "order": 600
@@ -544,7 +544,7 @@
     "filename": "ss089.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 500
@@ -554,7 +554,7 @@
     "filename": "ss091.jpg",
     "price": "",
     "sold": true,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 500
@@ -564,7 +564,7 @@
     "filename": "ss095.jpg",
     "price": "",
     "sold": true,
-    "size":"90 x 70 cm",
+    "size":"70 x 90 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 500
@@ -574,7 +574,7 @@
     "filename": "ss096.jpg",
     "price": "",
     "sold": true,
-    "size":"50 x 70 cm",
+    "size":"70 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 500
@@ -584,7 +584,7 @@
     "filename": "ss097.jpg",
     "price": "",
     "sold": true,
-    "size":"60 x 70 cm",
+    "size":"70 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 500
@@ -594,7 +594,7 @@
     "filename": "ss098.jpg",
     "price": "",
     "sold": true,
-    "size":"60 x 70 cm",
+    "size":"70 x 60 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 500
@@ -604,7 +604,7 @@
     "filename": "oh001.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 40 cm",
+    "size":"40 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
@@ -614,7 +614,7 @@
     "filename": "oh002.jpg",
     "price": "",
     "sold": true,
-    "size":"50 x 40 cm",
+    "size":"40 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
@@ -624,7 +624,7 @@
     "filename": "oh003.jpg",
     "price": "",
     "sold": true,
-    "size":"50 x 40 cm",
+    "size":"40 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
@@ -634,7 +634,7 @@
     "filename": "oh004.jpg",
     "price": "",
     "sold": false,
-    "size":"50 x 40 cm",
+    "size":"40 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
@@ -644,7 +644,7 @@
     "filename": "mo001.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Monotypi",
     "hidden":false,
     "order": 450
@@ -654,7 +654,7 @@
     "filename": "mo002.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Monotypi",
     "hidden":false,
     "order": 450
@@ -664,7 +664,7 @@
     "filename": "mo003.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"50 x 40 cm",
     "teknik":"Monotypi",
     "hidden":false,
     "order": 450
@@ -674,7 +674,7 @@
     "filename": "hh097.jpg",
     "price": "",
     "sold": true,
-    "size":"50 x 60 cm",
+    "size":"60 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 550
@@ -684,7 +684,7 @@
     "filename": "hh099.jpg",
     "price": "",
     "sold": true,
-    "size":"70 x 90 cm",
+    "size":"90 x 70 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 550
