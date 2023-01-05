@@ -689,4 +689,43 @@
     "hidden":false,
     "order": 550
     }
-]
+    {
+    "title":"Udsigt undervejs IV",
+    "filename": "la083.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    }
+    {
+    "title":"Lonely one",
+    "filename": "tr089.jpg",
+    "price": "",
+    "sold": false ,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 100
+    }
+    {
+    "title":"",
+    "filename": "",
+    "price": "",
+    "sold": ,
+    "size":"",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 
+    }
+    {
+    "title":"",
+    "filename": "",
+    "price": "",
+    "sold": ,
+    "size":"",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 
+    }
