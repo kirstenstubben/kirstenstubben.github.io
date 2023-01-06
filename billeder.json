@@ -717,7 +717,7 @@
     "size":"",
     "teknik":"Akryl på lærred",
     "hidden":false,
-    "order": 
+    "order": 100
     },
     {
     "title":"",
@@ -727,5 +727,6 @@
     "size":"",
     "teknik":"Akryl på lærred",
     "hidden":false,
-    "order": 
+    "order": 100
     }
+    ]
