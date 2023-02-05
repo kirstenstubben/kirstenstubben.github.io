@@ -28,7 +28,16 @@
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 115
-    },    
+    },
+    {
+    "title":"Stol på udsigten",
+    "filename": "tr088.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 100
     {
     "title":"Træfødder",
     "filename": "tr093.jpg",
