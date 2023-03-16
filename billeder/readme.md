@@ -33,6 +33,24 @@ Nogle felter skal udfyldes med true eller false. Desuden skal der være et numme
     "hidden":false,
     "order": 110
     }
-    
-    
+    {
+    "title":"Way out",
+    "filename": "tr087.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 120
+    },
+    {
+    "title":"Stol på udsigten",
+    "filename": "tr088.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 117
+    },
    
