@@ -220,6 +220,36 @@
     "order": 300
     },
     {
+    "title":"Somewhere",
+    "filename": "la071.jpg",
+    "price": "",
+    "sold": false,
+    "size":"40 x 50 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },
+    {
+    "title":"Åen er på tværs",
+    "filename": "la070.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 60 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },
+    {
+    "title":"Sådan lidt fra oven",
+    "filename": "la069.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },
+    {
     "title":"Udsigt undervejs III",
     "filename": "la080.jpg",
     "price": "",
@@ -228,7 +258,27 @@
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
-    },    
+    },
+    {
+    "title":"Undervandsland",
+    "filename": "la082.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },
+    {
+    "title":"Forunderligland",
+    "filename": "la074.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 9 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 300
+    },
     {
     "title":"Blå bjerge",
     "filename": "la078.jpg",
