@@ -128,30 +128,10 @@
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
-    },     
-    {
-    "title":"Venter på sommervand",
-    "filename": "la114.jpg",
-    "price": "",
-    "sold": true,
-    "size":"50 x 60 cm",
-    "teknik":"Akryl på lærred",
-    "hidden":false,
-    "order": 300
-    },     
-    {
-    "title":"Udsigt i udkanten",
-    "filename": "la113.jpg",
-    "price": "",
-    "sold": true,
-    "size":"50 x 60 cm",
-    "teknik":"Akryl på lærred",
-    "hidden":false,
-    "order": 300
-    },     
+    },
     {
     "title":"Langs stranden As Vig",
-    "filename": "la112.jpg",
+    "filename": ".jpg",
     "price": "",
     "sold": true,
     "size":"50 x 60 cm",
