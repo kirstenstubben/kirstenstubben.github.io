@@ -26,12 +26,7 @@
     <script src="/navbar.js" defer></script> 
     <script src="/app.js" defer></script> 
     <style>
-        #buttons {
-            /* display:inline;  */
-           /*  float: right; */
-            /* padding-top:10px; */
-        /*     border:solid red 1px; */
-        }
+
 
         button {
             cursor: pointer;
@@ -44,6 +39,45 @@
             /*  border:solid red 1px;*/
         }
 
+        select {
+            cursor: pointer;
+   /*          padding: 12px 4px;
+            margin-right: 3px; */
+            background: transparent;
+            color:var(--font-color-menu);            
+         /*    border:none;           */  
+          /*   text-transform: uppercase; */
+            /*  border:solid red 1px;*/
+        }
+
+/*         select:hover {
+            background: transparent;
+            color:var(--font-color-menu);            
+            border:none; 
+        } */
+
+        select {
+/*             -webkit-appearance:none;
+            -moz-appearance:none;
+            -ms-appearance:none;
+            appearance: none; */
+
+            height: 30px;
+            padding: 0 28px 0 8px;
+            border: 1px solid #ccc;
+            outline: 0;
+            font-size: 14px;
+            border-radius: 0;
+
+        }
+
+        select:-moz-focusring {
+            color: transparent;
+            text-shadow: 0 0 0 #000;
+        }
+
+
+
         button:disabled {
             color: var(--font-color-menuactive);
             cursor: auto;
@@ -51,6 +85,8 @@
         button:hover:enabled{
             color: var(--font-color-menuhover);
         }
+
+
 
 
 
@@ -148,8 +184,24 @@
     <section>
          <h1>Galleri</h1> 
          <div id="buttons">
-            <button id="btnAlle" disabled="true">Alle malerier</button> 
-            <button id="btnTilSalg">Malerier til salg</button>
+            <select name="btnCategory" id="btnCategory">
+                <option value="alle">Alle malerier</option>                
+                <option value="tilsalg">Til salg</option>
+                <optgroup style="font-size: x-small;" label=""></optgroup>
+                <optgroup style="font-size: x-small;" label="Malerier efter kategori:"></optgroup>
+
+                <option value="tr">Træer</option>
+                <option value="la">Landskaber</option>
+                <option value="oh">Havet</option>
+                <option value="bl">Havens flora</option>
+                <option value="ss">Sommer og sol</option>
+                <option value="cb">Cirkelbilleder</option>
+                <option value="ak">Akvareller</option>
+                <option value="mo">Montypier</option>
+                <option value="ab">Krukker - abstrakte billeder</option>
+              </select>
+<!--             <button id="btnAlle" disabled="true">Alle malerier</button> 
+            <button id="btnTilSalg">Malerier til salg</button> -->
         </div>
 
         <div class="grid-container">
@@ -196,25 +248,68 @@
                         `  
                 }
             })
-            .join("\n");    
-            
-            
+            .join("\n");            
     }
 
+
+function displayImagesCat(data,kuntilsalg,category){
+
+    document.querySelector(".grid-container").innerHTML=data
+        .filter((data)=>{
+            if(category==="alle"){
+                return data.hidden!==true 
+            }
+            else if(category==="tilsalg"){
+                return data.hidden!==true && data.sold!==true
+            }
+            else {
+                return data.hidden!==true && data.filename.substring(0, 2)==category;
+            }            
+        })
+        .sort((a, b) => (a.order > b.order) ? 1 : -1)
+        .map((item)=>{            
+            if(category==="tilsalg"){
+                return    `
+                    <div>
+                            <a href="/billede.html#id=${item.filename}">
+                                <img src="/billeder/${item.filename}" alt="Kirsten Stubben - ${item.title}">
+                            </a>  
+                            <span style="float:left">${item.price}</span><span style="float:right">${item.size}</span>
+                            <br/ style="clear:both"><br/>                                                    
+                    </div>                        
+                    `  
+            }
+            else {
+                return    `
+                    <div>
+                            <a href="/billede.html#id=${item.filename}">
+                                <img src="/billeder/${item.filename}" alt="Kirsten Stubben - ${item.title}"  title="${item.title}">
+                            </a>
+                    </div>
+                    
+                    `  
+            }
+        })
+        .join("\n");            
+}
    
-    const btnAlle=document.getElementById("btnAlle");
-    const btnTilSalg=document.getElementById("btnTilSalg");
+/*     const btnAlle=document.getElementById("btnAlle");
+    const btnTilSalg=document.getElementById("btnTilSalg"); */
+    const btnCategory=document.getElementById("btnCategory");
+    
 
     let myJson=[];
     fetch('/billeder.json')
     .then((response) => response.json())
     .then((json) =>  {
        myJson=json;
-       displayImages(json);        
+       console.log(btnCategory.value);
+       //displayImages(json);    
+       displayImagesCat(myJson,false,btnCategory.value);    
     })
     .catch(err=>console.error(err));
 
-    btnAlle.addEventListener("click",()=>{
+/*     btnAlle.addEventListener("click",()=>{
         btnAlle.disabled = true;
         btnTilSalg.disabled = false;
         displayImages(myJson,false);
@@ -224,8 +319,16 @@
         btnAlle.disabled = false;
         btnTilSalg.disabled = true;
         displayImages(myJson,true);
+    }) */
 
+
+
+    btnCategory.addEventListener("change",(ev)=>{       
+        displayImagesCat(myJson,false,ev.target.value);
     })
+
+
+
 
 </script>
     
