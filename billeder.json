@@ -660,11 +660,11 @@
     "order": 400
     },   
     {
-    "title":"",
-    "filename": "oh004.jpg",
+    "title":"Udsigt ved udkanten",
+    "filename": "oh005.jpg",
     "price": "",
     "sold": false,
-    "size":"30 x 40 cm",
+    "size":"40 x 50 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
@@ -701,7 +701,7 @@
     },   
     {
     "title":"Værsgo' og sid",
-    "filename": "hh097.jpg",
+    "filename": "ss084.jpg",
     "price": "",
     "sold": true,
     "size":"60 x 50 cm",
@@ -711,7 +711,7 @@
     },   
     {
     "title":"Høns i rosenhaven",
-    "filename": "hh099.jpg",
+    "filename": "ss085.jpg",
     "price": "",
     "sold": true,
     "size":"90 x 70 cm",
