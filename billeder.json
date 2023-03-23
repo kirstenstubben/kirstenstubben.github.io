@@ -130,16 +130,6 @@
     "order": 300
     },
     {
-    "title":"Langs stranden As Vig",
-    "filename": ".jpg",
-    "price": "",
-    "sold": true,
-    "size":"50 x 60 cm",
-    "teknik":"Akryl på lærred",
-    "hidden":false,
-    "order": 300
-    },     
-    {
     "title":"Udsigt langs vejen",
     "filename": "la111.jpg",
     "price": "",
@@ -235,16 +225,6 @@
     "price": "",
     "sold": false,
     "size":"40 x 50 cm",
-    "teknik":"Akryl på lærred",
-    "hidden":false,
-    "order": 300
-    },
-    {
-    "title":"Undervandsland",
-    "filename": "la082.jpg",
-    "price": "",
-    "sold": false,
-    "size":"70 x 90 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 300
@@ -644,7 +624,7 @@
     "filename": "oh001.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"30 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
@@ -654,7 +634,7 @@
     "filename": "oh002.jpg",
     "price": "",
     "sold": true,
-    "size":"40 x 50 cm",
+    "size":"30 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
@@ -664,7 +644,7 @@
     "filename": "oh003.jpg",
     "price": "",
     "sold": true,
-    "size":"40 x 50 cm",
+    "size":"30 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
@@ -674,7 +654,17 @@
     "filename": "oh004.jpg",
     "price": "",
     "sold": false,
-    "size":"40 x 50 cm",
+    "size":"30 x 40 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 400
+    },   
+    {
+    "title":"",
+    "filename": "oh004.jpg",
+    "price": "",
+    "sold": false,
+    "size":"30 x 40 cm",
     "teknik":"Akryl på lærred",
     "hidden":false,
     "order": 400
