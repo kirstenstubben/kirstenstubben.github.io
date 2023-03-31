@@ -189,21 +189,21 @@
                 <option value="tilsalg">Til salg</option>
                 <optgroup style="font-size: x-small;" label=""></optgroup>
                 <optgroup style="font-size: x-small;" label="Malerier efter kategori:"></optgroup>
-
-                <option value="tr">Træer</option>
-                <option value="la">Landskaber</option>
-                <option value="oh">Havet</option>
-                <option value="bl">Havens flora</option>
-                <option value="ss">Sommer og sol</option>
-                <option value="cb">Cirkelbilleder</option>
-                <option value="ak">Akvareller</option>
-                <option value="mo">Montypier</option>
-                <option value="ab">Krukker - abstrakte billeder</option>
+                <option value="tr" data-txt="Siden 2020 har jeg især arbejdet med træer; træer på forskellig vis, med forskellige teknikker, i forskellige rum og tid. Træer skaber variation i billedet og er med til at understøtte kompositionen i maleriet.">Træer</option>
+                <option value="la" data-txt="Der findes uendeligt mange motiver i naturen! Jeg arbejder til stadighed på at anvende forskellige teknikker for at fremhæve farver, former og udtryk. At gå en tur i naturen giver mig altid inspiration til at male!" >Landskaber</option>
+                <option value="oh" data-txt="Der er en særlig stemning netop ved havet. Det kan være stille vejr, det kan storme. Der er nøgne strande, der er bevoksede strande. Lyset ændrer sig efter både årstid og vejrforhold og der skabes et særligt lys, hvor himmel og hav mødes. Et spændende og udfordrende motivfelt.">Havet</option>
+                <option value="bl" data-txt="En udvidelse af havens motiver - Sol og sommer - nu med mere fokus på blomster udformet på forskellig vis og i forskellige sammenhænge. Repertoiret og teknikken udvider sig undervejs og til stadighed.">Havens flora</option>
+                <option value="ss" data-txt="Det var her, det hele begyndte - i haven med al dens flora og grønne løv. Det var det, der først fascinerede mig og for alvor fik mig i gang med penslerne. Der var som regel høns eller andre smådyr i haven. Mange af disse malerier er solgt. Måske vender jeg tilbage til haven igen - på en anden måde.">Sommer og sol</option>
+                <option value="ak" data-txt="At arbejde med akvarel giver dig kun ét skud i bøssen! Det kan til gengæld give et helt særligt udtryk, når man bare ser, hvad der sker undervejs. Eller man kan arbejde efter et givet motiv. Uanset teknik får akvareller et meget let og luftigt udtryk.">Akvareller</option>
+                <option value="mo" data-txt="At trykke med akryl på papir eller lærred giver et helt uforudsigeligt billede. Ofte er det kun enkelte ud af en større produktion, der får lov til at overleve. Men de har deres eget liv og udtryk, som jeg godt kan lide.">Montypier</option>
+                <option value="ab" data-txt="En blandet gruppe af malerier udført undervejs i min maleperiode med forskellige motiver og teknikker. Men krukkerne har altid fundet vej på lærredet. Der er så mange forskellige former og farver at give af.">Krukker - abstrakte billeder</option>
+                <option value="cb" data-txt="Cirkelbillederne opstod på et kursus, hvor man skulle arbejde med cirkler! Det gav ingen mening for mig, før jeg ”opfandt” metoden at sætte fokus med farverne - inde i cirklens midte. En anderledes måde at arbejde med akryl på papir og størrelse af billedet.">Cirkelbilleder</option>
               </select>
 <!--             <button id="btnAlle" disabled="true">Alle malerier</button> 
             <button id="btnTilSalg">Malerier til salg</button> -->
         </div>
 
+         <div id="categoryText"></div>
         <div class="grid-container">
 
         </div>
@@ -263,7 +263,9 @@ function displayImagesCat(data,kuntilsalg,category){
                 return data.hidden!==true && data.sold!==true
             }
             else {
+                
                 return data.hidden!==true && data.filename.substring(0, 2)==category;
+               
             }            
         })
         .sort((a, b) => (a.order > b.order) ? 1 : -1)
@@ -324,6 +326,15 @@ function displayImagesCat(data,kuntilsalg,category){
 
 
     btnCategory.addEventListener("change",(ev)=>{       
+        //console.log(ev.target);
+/**/         const selectedoption=ev.target.options[ev.target.selectedIndex];        
+        const categorytxt = selectedoption.getAttribute("data-txt");
+        document.querySelector("#categoryText").innerHTML="";
+        if(categorytxt){
+            const categoryheader=selectedoption.innerHTML;
+            document.querySelector("#categoryText").innerHTML=`</br>${categoryheader}</br> ${categorytxt}`;     
+        } 
+
         displayImagesCat(myJson,false,ev.target.value);
     })
 
