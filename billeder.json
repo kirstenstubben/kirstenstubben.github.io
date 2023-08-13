@@ -750,12 +750,52 @@
     "order": 900
     }, 
     {
-    "title":"Siciliens slidte døre II",
-    "filename": "ak092.jpg",
+    "title":"Krukker III",
+    "filename": "ab089.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 50 cm",
+    "teknik":"Vådt i vådt - akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },
+    {
+    "title":"Siciliens slidte døre III",
+    "filename": "ak091.jpg",
     "price": "",
     "sold": false,
     "size":"50 x 40 cm",
     "teknik":"Akvarel på papir",
+    "hidden":false,
+    "order": 900
+    },
+    { 
+    "title": "Krukker I",
+    "filename": "ab089.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 50 cm",
+    "teknik":"Vådt i vådt - akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },
+    { 
+    "title": "Krukker II",
+    "filename": "ab088.jpg",
+    "price": "",
+    "sold": false,
+    "size":"50 x 50 cm",
+    "teknik":"Vådt i vådt - akryl på lærred",
+    "hidden":false,
+    "order": 900
+    },
+    {
+    "title":"Krukker III",
+    "filename": "ab087.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 50 cm",
+    "teknik":"Vådt i vådt - akryl på lærred",
     "hidden":false,
     "order": 900
     },
