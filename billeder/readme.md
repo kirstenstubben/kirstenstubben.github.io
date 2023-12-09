@@ -53,4 +53,47 @@ Nogle felter skal udfyldes med true eller false. Desuden skal der være et numme
     "hidden":false,
     "order": 117
     },
+    {
+    "title":"Træ i måneskin",
+    "filename": "tr086.jpg",
+    "price": "",
+    "sold": true,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på papir",
+    "hidden":false,
+    "order": 115
+    },
+    {
+    "title":"Blue trees in a row",
+    "filename": "tr084.jpg",
+    "price": "",
+    "sold": false,
+    "size":"90 x 110 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 118
+    },
+    {
+    "title":"Blue trees 4 you",
+    "filename": "tr0883.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 121
+    },
+    {
+    "title":"Lygtetændingstid",
+    "filename": "tr085.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 122
+    },
+   
+   
+   
    
