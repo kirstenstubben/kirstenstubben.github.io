@@ -90,6 +90,66 @@
     "order": 145
     },
     {
+    "title":"På vandretur",
+    "filename": "tr087.jpg",
+    "price": "",
+    "sold": false,
+    "size":"70 x 90 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 146
+    }, 
+    {
+    "title":"Træ i måneskin",
+    "filename": "tr086.jpg",
+    "price": "",
+    "sold": true,
+    "size":"70 x 90 cm",
+    "teknik":"Akryl på papir",
+    "hidden":false,
+    "order": 148
+    },
+    {
+    "title":"Lygtetændingstid",
+    "filename": "tr085.jpg",
+    "price": "",
+    "sold": false,
+    "size":"80 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 149
+    },
+    {
+    "title":"Blue trees in a row",
+    "filename": "tr84.jpg",
+    "price": "",
+    "sold": false,
+    "size":"90 x 100 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 143
+    },
+    {
+    "title":"Blue trees 4 you",
+    "filename": "tr083.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 144
+    },
+    {
+    "title":"Træer i modlys",
+    "filename": "tr082.jpg",
+    "price": "",
+    "sold": tru,
+    "size":"70 x 90 cm",
+    "teknik":"Akryl på papir",
+    "hidden":false,
+    "order": 141
+    },
+    {
     "title":"Motiv Den genfundne bro",
     "filename": "la117.jpg",
     "price": "",
