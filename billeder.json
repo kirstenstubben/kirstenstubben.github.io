@@ -150,6 +150,26 @@
     "order": 141
     },
     {
+    "title":"Blue trees 4 you",
+    "filename": "tr083.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 144
+    },
+    {
+    "title":"3 blue trees",
+    "filename": "tr081.jpg",
+    "price": "",
+    "sold": false,
+    "size":"60 x 80 cm",
+    "teknik":"Akryl på lærred",
+    "hidden":false,
+    "order": 145
+    },
+    {
     "title":"Motiv Den genfundne bro",
     "filename": "la117.jpg",
     "price": "",
