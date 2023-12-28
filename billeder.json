@@ -200,8 +200,8 @@
       "order":300
    },
    {
-      "title":"Udsigt undervejs I",
-      "filename":"la082.jpg",
+      "title":"Udsigt undervejs II",
+      "filename":"la044.jpg",
       "price":"",
       "sold":false,
       "size":"40 x 50 cm",
@@ -210,14 +210,24 @@
       "order":300
    },
    {
-      "title":"Udsigt undervejs II",
-      "filename":"la081.jpg",
+      "title":"Udsigt undervejs III",
+      "filename":"la043.jpg",
       "price":"",
       "sold":false,
-      "size":"50 x 50 cm",
+      "size":"40 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":301
+   },
+   {
+      "title":"Udsigt undervejs I",
+      "filename":"la045.jpg",
+      "price":"",
+      "sold":false,
+      "size":"40 x 40 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":302
    },
    {
       "title":"Somewhere",
@@ -275,6 +285,36 @@
       "price":"",
       "sold":false,
       "size":"100 x 120 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":300
+   },
+   {
+      "title":"På vandring",
+      "filename":"la52.jpg",
+      "price":"",
+      "sold":false,
+      "size":"70 x 90 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":300
+   },
+   {
+      "title":"Al vand bryder frem",
+      "filename":"la051.jpg",
+      "price":"",
+      "sold":false,
+      "size":"90 x 90 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":300
+   },
+   {
+      "title":"Landskab uden titel",
+      "filename":"la050.jpg",
+      "price":"",
+      "sold":false,
+      "size":"80 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":300
