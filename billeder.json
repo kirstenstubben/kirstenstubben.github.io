@@ -27,7 +27,7 @@
       "size":"80 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":100
+      "order":117
    },
    {
       "title":"Træfødder",
@@ -37,7 +37,7 @@
       "size":"70 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":110
+      "order":116
    },
    {
       "title":"Trees are blue 2",
@@ -67,7 +67,7 @@
       "size":"90 x 80 cm.",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":125
+      "order":100
    },
    {
       "title":"Vejen til Ingenmandsland",
@@ -87,7 +87,7 @@
       "size":"60 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":145
+      "order":151
    },
    {
       "title":"Træ i måneskin",
@@ -177,7 +177,7 @@
       "size":"120 x 120 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":320
    },
    {
       "title":"Langt højere bjerge",
@@ -187,7 +187,7 @@
       "size":"70 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":310
    },
    {
       "title":"Ved Vejle Å",
@@ -207,7 +207,7 @@
       "size":"40 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":350
    },
    {
       "title":"Udsigt undervejs III",
@@ -217,7 +217,7 @@
       "size":"40 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":301
+      "order":351
    },
    {
       "title":"Udsigt undervejs I",
@@ -227,7 +227,7 @@
       "size":"40 x 40 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":302
+      "order":352
    },
    {
       "title":"Somewhere",
@@ -247,7 +247,7 @@
       "size":"60 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":321
    },
    {
       "title":"Forunderligland",
@@ -257,7 +257,7 @@
       "size":"70 x 9 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":400
    },
    {
       "title":"Blå bjerge",
@@ -267,7 +267,7 @@
       "size":"90 x 70 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":311
    },
    {
       "title":"Over heden",
@@ -277,7 +277,7 @@
       "size":"80 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":312
    },
    {
       "title":"I det fjerne",
@@ -287,7 +287,7 @@
       "size":"100 x 120 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":309
    },
    {
       "title":"På vandring",
@@ -297,7 +297,7 @@
       "size":"70 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":308
    },
    {
       "title":"Al vand bryder frem",
@@ -307,7 +307,7 @@
       "size":"90 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":307
    },
    {
       "title":"Landskab uden titel",
@@ -317,7 +317,7 @@
       "size":"80 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":307
    },
    {
       "title":"Tulipanfornøjelse",
