@@ -302,7 +302,7 @@
    {
       "title":"Forårsparade",
       "filename":"bl099.jpg",
-      "price":"",
+      "price":"2400 kr",
       "sold":false,
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
@@ -312,7 +312,7 @@
    {
       "title":"På den hvide terrasse",
       "filename":"bl098.jpg",
-      "price":"",
+      "price":"3500 kr",
       "sold":false,
       "size":"70 x 60 cm",
       "teknik":"Akryl på lærred",
@@ -332,7 +332,7 @@
    {
       "title":"Når kirsebærtræerne blomstrer",
       "filename":"bl096.jpg",
-      "price":"",
+      "price":"3500 kr",
       "sold":false,
       "size":"90 x 70 cm",
       "teknik":"Akryl på lærred",
@@ -352,7 +352,7 @@
    {
       "title":"Udsigt til sommer",
       "filename":"bl094.jpg",
-      "price":"",
+      "price":"2600 kr",
       "sold":false,
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
@@ -362,7 +362,7 @@
    {
       "title":"Havens flora I",
       "filename":"bl092.jpg",
-      "price":"",
+      "price":"2500 kr",
       "sold":false,
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
@@ -372,7 +372,7 @@
    {
       "title":"Havens flora II",
       "filename":"bl091.jpg",
-      "price":"",
+      "price":"2500 kr",
       "sold":false,
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
@@ -382,7 +382,7 @@
    {
       "title":"Street Art Nyans, Frankrig",
       "filename":"bl090.jpg",
-      "price":"",
+      "price":"2800 kr",
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
@@ -392,7 +392,7 @@
    {
       "title":"Street Art Tyskland",
       "filename":"bl089.jpg",
-      "price":"",
+      "price":"2800 kr",
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
@@ -402,7 +402,7 @@
    {
       "title":"Street art Euguisheim, Frankrig ",
       "filename":"bl088.jpg",
-      "price":"",
+      "price":"2800 kr",
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
@@ -412,7 +412,7 @@
    {
       "title":"Street Art Vietnam",
       "filename":"bl087.jpg",
-      "price":"",
+      "price":"2800 kr",
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
@@ -422,7 +422,7 @@
    {
       "title":"Street Art Noldes have, Tyskland",
       "filename":"bl086.jpg",
-      "price":"",
+      "price":"2800 kr",
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
@@ -430,9 +430,9 @@
       "order":754
    },
    {
-      "title":"Efterårsløv",
+      "title":"Efterårsblade i spil",
       "filename":"bl084.jpg",
-      "price":"",
+      "price":"4400 kr",
       "sold":false,
       "size":"90 x 80 cm",
       "teknik":"Akryl på lærred",
@@ -450,26 +450,6 @@
       "order":900
    },
    {
-      "title":"Gyngestol",
-      "filename":"ab091.jpg",
-      "price":"",
-      "sold":true,
-      "size":"90 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":800
-   },
-   {
-      "title":"Opstilling på bord",
-      "filename":"ab092.jpg",
-      "price":"",
-      "sold":true,
-      "size":"80 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":810
-   },
-   {
       "title":"Krukkeri I",
       "filename":"ab094.jpg",
       "price":"",
@@ -478,16 +458,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":900
-   },
-   {
-      "title":"Te med boller",
-      "filename":"ab095.jpg",
-      "price":"",
-      "sold":true,
-      "size":"80 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":800
    },
    {
       "title":"Krukker på bord I",
@@ -502,50 +472,50 @@
    {
       "title":"Udsigt Dollerup bakker",
       "filename":"cb093.jpg",
-      "price":"",
+      "price":"1800 kr",
       "sold":false,
       "size":"50 x 40 cm",
-      "teknik":"Akryl på papir - cirkelbillede",
+      "teknik":"Akryl på papir - cirkelbillede i sort ramme",
       "hidden":false,
       "order":600
    },
    {
       "title":"Fokus 7-års-søerne",
       "filename":"cb095.jpg",
-      "price":"",
+      "price":"1500 kr",
       "sold":false,
       "size":"40 x 30 cm",
-      "teknik":"Akryl på papir - cirkelbillede",
+      "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
       "order":600
    },
    {
       "title":"Køkkeninteriør",
       "filename":"cb096.jpg",
-      "price":"",
+      "price":"1500 kr",
       "sold":false,
       "size":"30 x 30 cm",
-      "teknik":"Akryl på papir - cirkelbillede",
+      "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
       "order":600
    },
    {
       "title":"Havestuen",
       "filename":"cb097.jpg",
-      "price":"",
+      "price":"1500 kr",
       "sold":false,
       "size":"30 x 30 cm",
-      "teknik":"Akryl på papir - cirkelbillede",
+      "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
       "order":600
    },
    {
       "title":"Afslapning",
       "filename":"cb098.jpg",
-      "price":"",
+      "price":"1500 kr",
       "sold":false,
       "size":"40 x 30 cm",
-      "teknik":"Akryl på papir - cirkelbillede",
+      "teknik":"Akryl på papir - cirkelbillede i sort ramme",
       "hidden":false,
       "order":600
    },
@@ -562,7 +532,7 @@
    {
       "title":"Glemte lige avisen...",
       "filename":"ss089.jpg",
-      "price":"",
+      "price":"2400 kr",
       "sold":false,
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
@@ -623,7 +593,7 @@
       "title":"Oh hav I",
       "filename":"oh001.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"30 x 40 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
@@ -662,42 +632,12 @@
    {
       "title":"Udsigt ved udkanten",
       "filename":"oh005.jpg",
-      "price":"",
+      "price":"2400 kr",
       "sold":false,
       "size":"40 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":400
-   },
-   {
-      "title":"Grøftekantsplanter I",
-      "filename":"mo001.jpg",
-      "price":"",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Monotypi",
-      "hidden":false,
-      "order":450
-   },
-   {
-      "title":"Grøftekantsplanter II",
-      "filename":"mo002.jpg",
-      "price":"",
-      "sold":true,
-      "size":"50 x 40 cm",
-      "teknik":"Monotypi",
-      "hidden":false,
-      "order":450
-   },
-   {
-      "title":"Grøftekantsplanter III",
-      "filename":"mo003.jpg",
-      "price":"",
-      "sold":true,
-      "size":"50 x 40 cm",
-      "teknik":"Monotypi",
-      "hidden":false,
-      "order":450
    },
    {
       "title":"Værsgo' og sid",
@@ -720,16 +660,6 @@
       "order":550
    },
    {
-      "title":"Udsigt undervejs IV",
-      "filename":"la083.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":300
-   },
-   {
       "title":"Lonely one",
       "filename":"tr089.jpg",
       "price":"3600 kr",
@@ -742,7 +672,7 @@
    {
       "title":"Siciliens slidte døre I",
       "filename":"ak093.jpg",
-      "price":"",
+      "price":"1200 kr",
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akvarel på papir",
@@ -762,7 +692,7 @@
    {
       "title":"Siciliens slidte døre III",
       "filename":"ak091.jpg",
-      "price":"",
+      "price":"1200 kr",
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akvarel på papir",
@@ -802,7 +732,7 @@
    {
       "title":"Siciliens slidte døre III",
       "filename":"ak091.jpg",
-      "price":"",
+      "price":"1200 kr",
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akvarel på papir",
