@@ -152,12 +152,12 @@
    {
       "title":"Motiv Den genfundne bro",
       "filename":"la117.jpg",
-      "price":"",
+      "price":"3200 kr",
       "sold":false,
       "size":"70 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":300
+      "order":310
    },
    {
       "title":"Hvor lagde jeg lige avisen?",
@@ -177,17 +177,17 @@
       "size":"70 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":310
+      "order":320
    },
    {
       "title":"Ved Vejle Å",
       "filename":"la088.jpg",
-      "price":"",
+      "price":"3200 kr",
       "sold":false,
       "size":"60 x 70 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":301
+      "order":311
    },
    {
       "title":"Somewhere",
@@ -202,7 +202,7 @@
    {
       "title":"Åen er på tværs",
       "filename":"la070.jpg",
-      "price":"",
+      "price":"2800 kr",
       "sold":false,
       "size":"60 x 60 cm",
       "teknik":"Akryl på lærred",
@@ -210,11 +210,11 @@
       "order":321
    },
    {
-      "title":"Forunderligland",
+      "title":"Undervandsland",
       "filename":"la074.jpg",
-      "price":"",
+      "price":"4400 kr",
       "sold":false,
-      "size":"70 x 9 cm",
+      "size":"70 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":400
@@ -222,7 +222,7 @@
    {
       "title":"Blå bjerge",
       "filename":"la078.jpg",
-      "price":"",
+      "price":"4400 kr",
       "sold":false,
       "size":"90 x 70 cm",
       "teknik":"Akryl på lærred",
@@ -242,7 +242,7 @@
    {
       "title":"I det fjerne",
       "filename":"la076.jpg",
-      "price":"",
+      "price":"6350 kr",
       "sold":false,
       "size":"100 x 120 cm",
       "teknik":"Akryl på lærred",
@@ -252,7 +252,7 @@
    {
       "title":"På vandring",
       "filename":"la052.jpg",
-      "price":"",
+      "price":"4500 kr",
       "sold":false,
       "size":"70 x 90 cm",
       "teknik":"Akryl på lærred",
@@ -262,7 +262,7 @@
    {
       "title":"Al vand bryder frem",
       "filename":"la051.jpg",
-      "price":"",
+      "price":4800 kr"",
       "sold":false,
       "size":"90 x 90 cm",
       "teknik":"Akryl på lærred",
@@ -272,7 +272,7 @@
    {
       "title":"Landskab uden titel",
       "filename":"la050.jpg",
-      "price":"",
+      "price":"5000 kr",
       "sold":false,
       "size":"80 x 100 cm",
       "teknik":"Akryl på lærred",
@@ -282,7 +282,7 @@
    {
       "title":"Tulipanfornøjelse",
       "filename":"bl101.jpg",
-      "price":"",
+      "price":"2600 kr",
       "sold":false,
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
