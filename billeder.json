@@ -169,17 +169,7 @@
       "hidden":false,
       "order":300
    },
-   {
-      "title":"Udsigt langs vejen",
-      "filename":"la111.jpg",
-      "price":"",
-      "sold":true,
-      "size":"120 x 120 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":320
-   },
-   {
+      {
       "title":"Langt højere bjerge",
       "filename":"la110.jpg",
       "price":"",
@@ -198,36 +188,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":301
-   },
-   {
-      "title":"Udsigt undervejs II",
-      "filename":"la044.jpg",
-      "price":"",
-      "sold":false,
-      "size":"40 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":350
-   },
-   {
-      "title":"Udsigt undervejs III",
-      "filename":"la043.jpg",
-      "price":"",
-      "sold":false,
-      "size":"40 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":351
-   },
-   {
-      "title":"Udsigt undervejs I",
-      "filename":"la045.jpg",
-      "price":"",
-      "sold":false,
-      "size":"40 x 40 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":352
    },
    {
       "title":"Somewhere",
