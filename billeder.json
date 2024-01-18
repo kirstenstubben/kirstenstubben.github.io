@@ -172,7 +172,7 @@
    {
       "title":"Langt højere bjerge",
       "filename":"la110.jpg",
-      "price":"",
+      "price":"3800 kr",
       "sold":false,
       "size":"70 x 80 cm",
       "teknik":"Akryl på lærred",
@@ -337,7 +337,7 @@
       "size":"90 x 70 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":720
+      "order":714
    },
    {
       "title":"Flyttedag",
@@ -347,7 +347,7 @@
       "size":"80 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":730
+      "order":714
    },
    {
       "title":"Udsigt til sommer",
@@ -437,7 +437,7 @@
       "size":"90 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":720
+      "order":760
    },
    {
       "title":"Hvor går vi hen?",
@@ -547,7 +547,7 @@
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":500
+      "order":501
    },
    {
       "title":"Sommerliv - katteliv",
@@ -557,7 +557,7 @@
       "size":"70 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":500
+      "order":502
    },
    {
       "title":"Cykeltur i haven",
@@ -567,7 +567,7 @@
       "size":"70 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":500
+      "order":503
    },
    {
       "title":"Slap af",
@@ -577,7 +577,7 @@
       "size":"70 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":500
+      "order":504
    },
    {
       "title":"Cykelhvil",
@@ -587,7 +587,7 @@
       "size":"70 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":500
+      "order":505
    },
    {
       "title":"Oh hav I",
@@ -607,7 +607,7 @@
       "size":"30 x 40 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":400
+      "order":401
    },
    {
       "title":"Oh hav III",
@@ -617,17 +617,17 @@
       "size":"30 x 40 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":400
+      "order":403
    },
    {
       "title":"Oh hav IV",
       "filename":"oh004.jpg",
-      "price":"",
+      "price":"1500 kr",
       "sold":false,
       "size":"30 x 40 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":400
+      "order":404
    },
    {
       "title":"Udsigt ved udkanten",
@@ -657,7 +657,7 @@
       "size":"90 x 70 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":550
+      "order":506
    },
    {
       "title":"Lonely one",
