@@ -562,8 +562,8 @@
    {
       "title":"Venter på sommervand",
       "filename":"oh005.jpg",
-      "price":"2400 kr",
-      "sold":false,
+      "price":"",
+      "sold":true,
       "size":"40 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
@@ -628,5 +628,5 @@
       "teknik":"Vådt i vådt - akryl på lærred",
       "hidden":false,
       "order":900
-   }
+   },
 ]
