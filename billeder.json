@@ -30,16 +30,6 @@
       "order":117
    },
    {
-      "title":"Træfødder",
-      "filename":"tr093.jpg",
-      "price":"4500 kr",
-      "sold":false,
-      "size":"70 x 90 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":116
-   },
-   {
       "title":"Trees are blue 2",
       "filename":"tr094.jpg",
       "price":"",
@@ -158,16 +148,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":310
-   },
-   {
-      "title":"Hvor lagde jeg lige avisen?",
-      "filename":"la115.jpg",
-      "price":"",
-      "sold":true,
-      "size":"80 x 100 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":300
    },
    {
       "title":"Langt højere bjerge",
@@ -340,16 +320,6 @@
       "order":714
    },
    {
-      "title":"Flyttedag",
-      "filename":"bl095.jpg",
-      "price":"",
-      "sold":true,
-      "size":"80 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":714
-   },
-   {
       "title":"Udsigt til sommer",
       "filename":"bl094.jpg",
       "price":"2600 kr",
@@ -400,16 +370,6 @@
       "order":751
    },
    {
-      "title":"Street art Euguisheim, Frankrig ",
-      "filename":"bl088.jpg",
-      "price":"2800 kr",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Akryl på lærred med lys træramme",
-      "hidden":false,
-      "order":752
-   },
-   {
       "title":"Street Art Vietnam",
       "filename":"bl087.jpg",
       "price":"2800 kr",
@@ -428,26 +388,6 @@
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
       "order":754
-   },
-   {
-      "title":"Efterårsblade i spil",
-      "filename":"bl084.jpg",
-      "price":"4400 kr",
-      "sold":false,
-      "size":"90 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":760
-   },
-   {
-      "title":"Hvor går vi hen?",
-      "filename":"ab090.jpg",
-      "price":"",
-      "sold":true,
-      "size":"90 x 90 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":900
    },
    {
       "title":"Krukkeri I",
@@ -620,16 +560,6 @@
       "order":403
    },
    {
-      "title":"Oh hav IV",
-      "filename":"oh004.jpg",
-      "price":"1500 kr",
-      "sold":false,
-      "size":"30 x 40 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":404
-   },
-   {
       "title":"Udsigt ved udkanten",
       "filename":"oh005.jpg",
       "price":"2400 kr",
@@ -670,36 +600,6 @@
       "order":110
    },
    {
-      "title":"Siciliens slidte døre I",
-      "filename":"ak093.jpg",
-      "price":"1200 kr",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Akvarel på papir",
-      "hidden":false,
-      "order":900
-   },
-   {
-      "title":"Krukker III",
-      "filename":"ab089.jpg",
-      "price":"",
-      "sold":false,
-      "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred",
-      "hidden":false,
-      "order":900
-   },
-   {
-      "title":"Siciliens slidte døre III",
-      "filename":"ak091.jpg",
-      "price":"1200 kr",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Akvarel på papir",
-      "hidden":false,
-      "order":900
-   },
-   {
       "title":"Krukker I",
       "filename":"ab089.jpg",
       "price":"",
@@ -729,14 +629,4 @@
       "hidden":false,
       "order":900
    },
-   {
-      "title":"Siciliens slidte døre III",
-      "filename":"ak091.jpg",
-      "price":"1200 kr",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Akvarel på papir",
-      "hidden":false,
-      "order":900
-   }
-]
+   ]
