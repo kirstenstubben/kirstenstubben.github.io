@@ -595,6 +595,16 @@
       "price":"1500 kr",
       "sold":false,
       "size":"40 x 50 cm",
+      "teknik":"Akryl på lærred med lys træramme",
+      "hidden":false,
+      "order":411
+   },
+   {
+      "title":"Måge på spil",
+      "filename":"oh010.jpg",
+      "price":"1500 kr",
+      "sold":false,
+      "size":"40 x 50 cm",
       "teknik":"Akryl på lærred med lys ramme",
       "hidden":false,
       "order":400
