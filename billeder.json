@@ -380,7 +380,7 @@
       "order":754
    },
    {
-      "title":"Krukkeri I",
+      "title":"Krukker på bord I",
       "filename":"ab094.jpg",
       "price":"",
       "sold":true,
@@ -390,7 +390,7 @@
       "order":900
    },
    {
-      "title":"Krukker på bord I",
+      "title":"Krukker på bord II",
       "filename":"ab096.jpg",
       "price":"",
       "sold":true,
@@ -635,7 +635,7 @@
       "price":"3000 kr",
       "sold":false,
       "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
       "hidden":false,
       "order":900
    },
@@ -645,7 +645,7 @@
       "price":"3000 kr",
       "sold":false,
       "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
       "hidden":false,
       "order":900
    },
@@ -655,7 +655,7 @@
       "price":"3000 kr",
       "sold":false,
       "size":"60 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
       "hidden":false,
       "order":900
    }
