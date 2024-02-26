@@ -560,6 +560,46 @@
       "order":400
    },
    {
+      "title":"Udsigt i udkanten",
+      "filename":"oh008.jpg",
+      "price":"1200 kr",
+      "sold":false,
+      "size":"40 x 50 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":401
+   },
+   {
+      "title":"Langs stranden",
+      "filename":"oh006.jpg",
+      "price":"",
+      "sold":true,
+      "size":"40 x 50 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":400
+   },
+   {
+      "title":"Parasolvejr",
+      "filename":"oh009.jpg",
+      "price":"1500 kr",
+      "sold":false,
+      "size":"40 x 50 cm",
+      "teknik":"Akryl på lærred med lys træramme",
+      "hidden":false,
+      "order":410
+   },
+   {
+      "title":"Måge på spil",
+      "filename":"oh0010.jpg",
+      "price":"1500 kr",
+      "sold":false,
+      "size":"40 x 50 cm",
+      "teknik":"Akryl på lærred med lys ramme",
+      "hidden":false,
+      "order":400
+   },
+   {
       "title":"Værsgo' og sid",
       "filename":"ss084.jpg",
       "price":"",
