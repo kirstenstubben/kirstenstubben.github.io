@@ -10,16 +10,6 @@
       "order":120
    },
    {
-      "title":"Skovs ende",
-      "filename":"tr092.jpg",
-      "price":"",
-      "sold":false,
-      "size":"80 x 70 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":115
-   },
-   {
       "title":"Stol på udsigten",
       "filename":"tr088.jpg",
       "price":"",
@@ -90,16 +80,6 @@
       "order":151
    },
    {
-      "title":"Træ i måneskin",
-      "filename":"tr086.jpg",
-      "price":"",
-      "sold":true,
-      "size":"70 x 90 cm",
-      "teknik":"Akryl på papir",
-      "hidden":false,
-      "order":148
-   },
-   {
       "title":"Lygtetændingstid",
       "filename":"tr085.jpg",
       "price":"",
@@ -130,16 +110,6 @@
       "order":133
    },
    {
-      "title":"Træer i modlys",
-      "filename":"tr082.jpg",
-      "price":"",
-      "sold":"true",
-      "size":"70 x 90 cm",
-      "teknik":"Akryl på papir",
-      "hidden":false,
-      "order":147
-   },
-   {
       "title":"3 tress are blue",
       "filename":"tr081.jpg",
       "price":"",
@@ -148,16 +118,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":132
-   },
-   {
-      "title":"Motiv Den genfundne bro",
-      "filename":"la117.jpg",
-      "price":"",
-      "sold":false,
-      "size":"70 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":310
    },
    {
       "title":"Langt højere bjerge",
@@ -248,16 +208,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":308
-   },
-   {
-      "title":"Al vand bryder frem",
-      "filename":"la051.jpg",
-      "price":"",
-      "sold":false,
-      "size":"90 x 90 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":307
    },
    {
       "title":"Tulipanfornøjelse",
@@ -490,16 +440,6 @@
       "order":501
    },
    {
-      "title":"Sommerliv - katteliv",
-      "filename":"ss095.jpg",
-      "price":"",
-      "sold":true,
-      "size":"70 x 90 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":502
-   },
-   {
       "title":"Cykeltur i haven",
       "filename":"ss096.jpg",
       "price":"",
@@ -560,16 +500,6 @@
       "order":403
    },
    {
-      "title":"Venter på sommervand",
-      "filename":"oh005.jpg",
-      "price":"",
-      "sold":true,
-      "size":"40 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":400
-   },
-   {
       "title":"Udsigt i udkanten",
       "filename":"oh008.jpg",
       "price":"",
@@ -578,16 +508,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":401
-   },
-   {
-      "title":"Langs stranden",
-      "filename":"oh006.jpg",
-      "price":"",
-      "sold":true,
-      "size":"40 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":400
    },
    {
       "title":"Parasolvejr",
