@@ -127,7 +127,7 @@
       "size":"70 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":320
+      "order":160
    },
    {
       "title":"Ved Vejle Å",
@@ -137,37 +137,7 @@
       "size":"60 x 70 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":311
-   },
-   {
-      "title":"Somewhere",
-      "filename":"la071.jpg",
-      "price":"",
-      "sold":false,
-      "size":"40 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":300
-   },
-   {
-      "title":"Åen er på tværs",
-      "filename":"la070.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":321
-   },
-   {
-      "title":"Undervandsland",
-      "filename":"la074.jpg",
-      "price":"",
-      "sold":false,
-      "size":"70 x 90 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":370
+      "order":162
    },
    {
       "title":"Blå bjerge",
@@ -177,7 +147,7 @@
       "size":"90 x 70 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":311
+      "order":131
    },
    {
       "title":"Over heden",
@@ -187,7 +157,7 @@
       "size":"80 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":312
+      "order":110
    },
    {
       "title":"I det fjerne",
@@ -197,7 +167,7 @@
       "size":"100 x 120 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":309
+      "order":130
    },
    {
       "title":"På vandring",
@@ -207,7 +177,7 @@
       "size":"70 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":308
+      "order":111
    },
    {
       "title":"Tulipanfornøjelse",
