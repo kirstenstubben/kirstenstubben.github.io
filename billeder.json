@@ -160,6 +160,66 @@
       "order":110
    },
    {
+      "title":"Review Iceland I",
+      "filename":"la042.jpg",
+      "price":"",
+      "sold":false,
+      "size":"125 x 95 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":100
+   },
+   {
+      "title":"Review Iceland II",
+      "filename":"la041.jpg",
+      "price":"",
+      "sold":false,
+      "size":"60 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":101
+   },
+   {
+      "title":"Review Iceland III",
+      "filename":"la040.jpg",
+      "price":"",
+      "sold":true,
+      "size":"90 x 120 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":102
+   },
+   {
+      "title":"Review Iceland IV",
+      "filename":"la039.jpg",
+      "price":"",
+      "sold":false,
+      "size":"90 x 80 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":103
+   },
+   {
+      "title":"Al vand bryder frem",
+      "filename":"la038.jpg",
+      "price":"",
+      "sold":false,
+      "size":"90 x 90 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":104
+   },
+   {
+      "title":"Somewhere",
+      "filename":"la64.jpg",
+      "price":"",
+      "sold":false,
+      "size":"90 x 90 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":112
+   },
+   {
       "title":"I det fjerne",
       "filename":"la076.jpg",
       "price":"",
