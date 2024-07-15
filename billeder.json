@@ -617,7 +617,37 @@
       "size":"50 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
       "hidden":false,
-      "order":900
+      "order":901
+   },
+   {
+      "title":"Krukker IV",
+      "filename":"ab086.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 50 cm",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "hidden":false,
+      "order":904
+   },
+   {
+      "title":"Krukker V",
+      "filename":"ab084.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 50 cm",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "hidden":false,
+      "order":905
+   },
+   {
+      "title":"Krukker VI",
+      "filename":"ab08.3jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 50 cm",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "hidden":false,
+      "order":906
    },
    {
       "title":"Krukker III",
@@ -627,6 +657,6 @@
       "size":"60 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
       "hidden":false,
-      "order":900
+      "order":902
    }
    ]
