@@ -267,7 +267,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":721
+      "order":701
    },
    {
       "title":"Street Art Nyans, Frankrig",
@@ -277,7 +277,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":722
+      "order":702
    },
    {
       "title":"Street Art Vietnam",
@@ -287,7 +287,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":723
+      "order":703
    },
    {
       "title":"Street Art Noldes have, Tyskland",
@@ -297,7 +297,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":725
+      "order":704
    },
    {
       "title":"Krukker på bord I",
@@ -347,7 +347,7 @@
       "size":"30 x 30 cm",
       "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
-      "order":603
+      "order":613
    },
    {
       "title":"Havestuen",
@@ -357,7 +357,7 @@
       "size":"30 x 30 cm",
       "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
-      "order":604
+      "order":1
    },
    {
       "title":"Afslapning",
@@ -367,7 +367,7 @@
       "size":"40 x 30 cm",
       "teknik":"Akryl på papir - cirkelbillede i sort ramme",
       "hidden":false,
-      "order":605
+      "order":615
    },
    {
       "title":"Pæleløb",
