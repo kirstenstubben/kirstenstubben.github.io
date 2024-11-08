@@ -80,16 +80,6 @@
       "order":151
    },
    {
-      "title":"Lygtetændingstid",
-      "filename":"tr085.jpg",
-      "price":"",
-      "sold":false,
-      "size":"80 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":149
-   },
-   {
       "title":"Blue trees in a row",
       "filename":"tr084.jpg",
       "price":"",
@@ -108,16 +98,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":133
-   },
-   {
-      "title":"3 trees are blue",
-      "filename":"tr081.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":132
    },
    {
       "title":"Langt højere bjerge",
@@ -158,56 +138,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":110
-   },
-   {
-      "title":"Review Iceland I",
-      "filename":"la042.jpg",
-      "price":"",
-      "sold":false,
-      "size":"125 x 95 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":100
-   },
-   {
-      "title":"Review Iceland II",
-      "filename":"la041.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":101
-   },
-   {
-      "title":"Review Iceland III",
-      "filename":"la040.jpg",
-      "price":"",
-      "sold":true,
-      "size":"90 x 120 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":102
-   },
-   {
-      "title":"Review Iceland IV",
-      "filename":"la039.jpg",
-      "price":"",
-      "sold":false,
-      "size":"90 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":103
-   },
-   {
-      "title":"Al vand bryder frem",
-      "filename":"la038.jpg",
-      "price":"",
-      "sold":false,
-      "size":"90 x 90 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":104
    },
    {
       "title":"Somewhere",
@@ -350,16 +280,6 @@
       "order":722
    },
    {
-      "title":"Street Art Tyskland",
-      "filename":"bl089.jpg",
-      "price":"",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Akryl på lærred med lys træramme",
-      "hidden":false,
-      "order":724
-   },
-   {
       "title":"Street Art Vietnam",
       "filename":"bl087.jpg",
       "price":"",
@@ -387,7 +307,7 @@
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":900
+      "order":950
    },
    {
       "title":"Krukker på bord II",
@@ -397,7 +317,7 @@
       "size":"60 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":900
+      "order":960
    },
    {
       "title":"Udsigt Dollerup bakker",
@@ -570,16 +490,6 @@
       "order":411
    },
    {
-      "title":"Værsgo' og sid",
-      "filename":"ss084.jpg",
-      "price":"",
-      "sold":true,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":550
-   },
-   {
       "title":"Høns i rosenhaven",
       "filename":"ss085.jpg",
       "price":"",
@@ -588,16 +498,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":506
-   },
-   {
-      "title":"Lonely one",
-      "filename":"tr089.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":110
    },
    {
       "title":"Krukker I",
@@ -678,16 +578,6 @@
       "teknik":"Akvarel med lys træramme",
       "hidden":false,
       "order":305
-   },
-   {
-      "title":"Invisible trees II",
-      "filename":"ak055.jpg",
-      "price":"",
-      "sold":false,
-      "size":"20 x 30 cm",
-      "teknik":"Akvarel i lys træramme",
-      "hidden":false,
-      "order":302
    },
    {
       "title":"Skov",
