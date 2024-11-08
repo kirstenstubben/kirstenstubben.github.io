@@ -605,7 +605,7 @@
       "price":"",
       "sold":false,
       "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrretræsramme",
       "hidden":false,
       "order":900
    },
@@ -615,7 +615,7 @@
       "price":"",
       "sold":true,
       "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrretræsramme",
       "hidden":false,
       "order":901
    },
@@ -625,7 +625,7 @@
       "price":"",
       "sold":false,
       "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrretræsramme",
       "hidden":false,
       "order":904
    },
@@ -635,7 +635,7 @@
       "price":"",
       "sold":false,
       "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrretræsramme",
       "hidden":false,
       "order":905
    },
@@ -645,7 +645,7 @@
       "price":"",
       "sold":false,
       "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrretræsramme",
       "hidden":false,
       "order":906
    },
@@ -655,8 +655,98 @@
       "price":"",
       "sold":false,
       "size":"60 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred med lys fyrtræsramme",
+      "teknik":"Vådt i vådt - akryl på lærred med lys fyrretræsramme",
       "hidden":false,
       "order":902
-   }
+   },
+   {
+      "title":"Invisible trees I",
+      "filename":"ak054.jpg",
+      "price":"",
+      "sold":false,
+      "size":"20 x 30 cm",
+      "teknik":"Akvarel med lys træramnme",
+      "hidden":false,
+      "order":101
+   },
+   {
+      "title":"Invisible trees III",
+      "filename":"ak056.jpg",
+      "price":"",
+      "sold":false,
+      "size":"20 x 30 cm",
+      "teknik":"Akvarel med lys træramme",
+      "hidden":false,
+      "order":105
+   },
+   {
+      "title":"Invisible trees II",
+      "filename":"ak055.jpg",
+      "price":"",
+      "sold":false,
+      "size":"20 x 30 cm",
+      "teknik":"Akvarel i lys træramme",
+      "hidden":false,
+      "order":102
+   },
+   {
+      "title":"Skov",
+      "filename":"ak057.jpg",
+      "price":"",
+      "sold":false,
+      "size":"30 x 40 cm",
+      "teknik":"Akvarel med lys træramme",
+      "hidden":false,
+      "order":106
+   },
+   {
+      "title":"Træ på tværs",
+      "filename":"ak053.jpg",
+      "price":"",
+      "sold":false,
+      "size":"30+x40",
+      "teknik":"Akvarel med træramme",
+      "hidden":false,
+      "order":100
+    }, 
+    {
+      "title":"Ene og alenetræ",
+      "filename":"ak059.jpg",
+      "price":"",
+      "sold":false,
+      "size":"20 x 30 cm",
+      "teknik":"Akvarel i lys træramme",
+      "hidden":false,
+      "order":111
+   },
+   {
+      "title":"Træ i modvind",
+      "filename":"ak060.jpg",
+      "price":"",
+      "sold":false,
+      "size":"30 x 40 cm",
+      "teknik":"Akvarel i lys træramme",
+      "hidden":false,
+      "order":111
+   },
+   {
+      "title":"Landskab",
+      "filename":"ak078.jpg",
+      "price":"",
+      "sold":false,
+      "size":"20 x 30 cm",
+      "teknik":"Akvarel i lys træramme",
+      "hidden":false,
+      "order":115
+   },
+   {
+      "title":"Alenetræ i landskab",
+      "filename":"ak058.jpg",
+      "price":"",
+      "sold":false,
+      "size":"30 x 40 cm",
+      "teknik":"Akvarel i lys træramme",
+      "hidden":false,
+      "order":110
+    }
    ]
