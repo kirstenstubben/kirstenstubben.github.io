@@ -140,6 +140,36 @@
       "order":110
    },
    {
+      "title":"Solnegang Odsherred I",
+      "filename":"la047.jpg",
+      "price":"",
+      "sold":false,
+      "size":"80 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":142
+   },
+   {
+      "title":"Solnedgang Odsherred II",
+      "filename":"la042.jpg",
+      "price":"",
+      "sold":false,
+      "size":"60 x 70 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":0
+   },
+   {
+      "title":"Solnedgang Odsherred III",
+      "filename":"la030.jpg",
+      "price":"",
+      "sold":false,
+      "size":"80 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":142
+   },
+   {
       "title":"Somewhere",
       "filename":"la037.jpg",
       "price":"",
