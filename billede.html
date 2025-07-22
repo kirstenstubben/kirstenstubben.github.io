@@ -51,6 +51,7 @@
         const id=params.get("id");
 
         function displayImages(data){
+            console.log(data);
         let galleri=document.getElementById("galleri");
         galleri.innerHTML=data
             .filter((data)=>{
