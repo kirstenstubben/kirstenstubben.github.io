@@ -150,26 +150,6 @@
       "order":142
    },
    {
-      "title":"Solnedgang Odsherred II",
-      "filename":"la042.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 70 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":0
-   },
-   {
-      "title":"Solnedgang Odsherred III",
-      "filename":"la030.jpg",
-      "price":"",
-      "sold":false,
-      "size":"80 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":142
-   },
-   {
       "title":"Somewhere",
       "filename":"la037.jpg",
       "price":"",
@@ -290,36 +270,6 @@
       "order":714
    },
    {
-      "title":"Udsigt til sommer",
-      "filename":"bl094.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":701
-   },
-   {
-      "title":"Havens flora I",
-      "filename":"bl092.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":730
-   },
-   {
-      "title":"Havens flora II",
-      "filename":"bl091.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":731
-   },
-   {
       "title":"Street Art, Danmark",
       "filename":"bl085.jpg",
       "price":"",
@@ -350,36 +300,6 @@
       "order":743
    },
    {
-      "title":"Street Art Noldes have, Tyskland",
-      "filename":"bl086.jpg",
-      "price":"",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Akryl på lærred med lys træramme",
-      "hidden":false,
-      "order":744
-   },
-   {
-      "title":"Krukker på bord I",
-      "filename":"ab094.jpg",
-      "price":"",
-      "sold":true,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":950
-   },
-   {
-      "title":"Krukker på bord II",
-      "filename":"ab096.jpg",
-      "price":"",
-      "sold":true,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":960
-   },
-   {
       "title":"Udsigt Dollerup bakker",
       "filename":"cb093.jpg",
       "price":"",
@@ -388,16 +308,6 @@
       "teknik":"Akryl på papir - cirkelbillede i sort ramme",
       "hidden":false,
       "order":601
-   },
-   {
-      "title":"Fokus 7-års-søerne",
-      "filename":"cb095.jpg",
-      "price":"",
-      "sold":true,
-      "size":"40 x 30 cm",
-      "teknik":"Akryl på papir - cirkelbillede i lys træramme",
-      "hidden":false,
-      "order":602
    },
    {
       "title":"Køkkeninteriør",
@@ -580,16 +490,6 @@
       "order":901
    },
    {
-      "title":"Krukker IV",
-      "filename":"ab086.jpg",
-      "price":"",
-      "sold":false,
-      "size":"50 x 50 cm",
-      "teknik":"Vådt i vådt - akryl på lærred med lys fyrretræsramme",
-      "hidden":false,
-      "order":904
-   },
-   {
       "title":"Krukker V",
       "filename":"ab084.jpg",
       "price":"",
@@ -640,16 +540,6 @@
       "order":825
    },
    {
-      "title":"Hvor mennesker var...III",
-      "filename":"hv087.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":815
-   },
-   {
       "title":"Hvor mennesker var...V",
       "filename":"hv086.jpg",
       "price":"",
@@ -658,16 +548,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":820
-   },
-   {
-      "title":"Hvor mennesker var...VI",
-      "filename":"hv093.jpg",
-      "price":"",
-      "sold":false,
-      "size":"80 x 100cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":822
    },
    {
       "title":"Invisible trees I",
@@ -718,26 +598,6 @@
       "teknik":"Akvarel i lys træramme",
       "hidden":false,
       "order":311
-   },
-   {
-      "title":"Landskab",
-      "filename":"ak078.jpg",
-      "price":"",
-      "sold":true,
-      "size":"20 x 30 cm",
-      "teknik":"Akvarel i lys træramme",
-      "hidden":false,
-      "order":315
-   },
-   {
-      "title":"Landskab",
-      "filename":"ak082.jpg",
-      "price":"",
-      "sold":false,
-      "size":"20 x 30 cm",
-      "teknik":"Akvarel i lys træramme",
-      "hidden":false,
-      "order":315
    },
    {
       "title":"Landskab",
@@ -868,8 +728,7 @@
       "teknik":"Kultegning",
       "hidden":false,
       "order":800
-   }
-   ,
+   },
    {
       "title":"",
       "filename":"nw001.jpg",
@@ -879,30 +738,7 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":900
-   }
-,
-   {
-      "title":"",
-      "filename":"nw002.jpg",
-      "price":"",
-      "sold":false,
-      "size":"",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":900
-   }
-,
-   {
-      "title":"",
-      "filename":"nw003.jpg",
-      "price":"",
-      "sold":false,
-      "size":"",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":900
-   }
-,
+   },
    {
       "title":"",
       "filename":"nw004.jpg",
