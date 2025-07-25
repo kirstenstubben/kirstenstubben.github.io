@@ -99,6 +99,17 @@
       "hidden":false,
       "order":133
    },
+   
+   {
+      "title":"",
+      "filename":"tr100.jpg",
+      "price":"",
+      "sold":false,
+      "size":"",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":133
+   },
    {
       "title":"Langt højere bjerge",
       "filename":"la110.jpg",
@@ -210,6 +221,16 @@
       "order":111
    },
    {
+      "title":"",
+      "filename":"la111.jpg",
+      "price":"",
+      "sold":false,
+      "size":"",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":111
+   },
+   {
       "title":"Tulipanfornøjelse",
       "filename":"bl101.jpg",
       "price":"",
@@ -296,6 +317,16 @@
       "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
+      "hidden":false,
+      "order":743
+   },
+   {
+      "title":"",
+      "filename":"bl102.jpg",
+      "price":"",
+      "sold":false,
+      "size":"",
+      "teknik":"Akryl på lærred",
       "hidden":false,
       "order":743
    },
@@ -540,6 +571,16 @@
       "order":825
    },
    {
+      "title":"",
+      "filename":"hv095.jpg",
+      "price":"",
+      "sold":false,
+      "size":"",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":825
+   },
+   {
       "title":"Hvor mennesker var...V",
       "filename":"hv086.jpg",
       "price":"",
@@ -722,6 +763,16 @@
    {
       "title":"",
       "filename":"ku010.jpg",
+      "price":"",
+      "sold":false,
+      "size":"",
+      "teknik":"Kultegning",
+      "hidden":false,
+      "order":800
+   },
+   {
+      "title":"",
+      "filename":"ku011.jpg",
       "price":"",
       "sold":false,
       "size":"",
