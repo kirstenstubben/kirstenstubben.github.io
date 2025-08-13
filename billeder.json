@@ -311,10 +311,10 @@
       "order":743
    },
    {
-      "title":"",
+      "title":"Skyggen af tulipaner",
       "filename":"bl102.jpg",
       "price":"",
-      "sold":false,
+      "sold"true,
       "size":"",
       "teknik":"Akryl på lærred",
       "hidden":false,
@@ -369,16 +369,6 @@
       "teknik":"Akryl på papir - cirkelbillede",
       "hidden":false,
       "order":606
-   },
-   {
-      "title":"Glemte lige avisen...",
-      "filename":"ss089.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":500
    },
    {
       "title":"Te i haven",
