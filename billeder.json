@@ -101,10 +101,10 @@
    },
    
    {
-      "title":"",
+      "title":"Lygtetændingstid",
       "filename":"tr101.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"",
       "teknik":"Akryl på lærred",
       "hidden":false,
