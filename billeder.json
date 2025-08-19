@@ -122,7 +122,7 @@
    {
       "title":"Ved Vejle Å",
       "filename":"la088.jpg",
-      "price":"r",
+      "price":"",
       "sold":false,
       "size":"60 x 70 cm",
       "teknik":"Akryl på lærred",
@@ -193,7 +193,7 @@
       "title":"Udsigt undervejs II",
       "filename":"la045.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"40 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
@@ -313,7 +313,7 @@
       "title":"Skyggen af tulipaner",
       "filename":"bl102.jpg",
       "price":"",
-      "sold"true,
+      "sold":true,
       "size":"",
       "teknik":"Akryl på lærred",
       "hidden":false,
@@ -640,7 +640,7 @@
       "order":320
    },
    {
-      "title":"",
+      "title":"Landskabeligt I",
       "filename":"ku001.jpg",
       "price":"",
       "sold":false,
@@ -650,7 +650,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt II",
       "filename":"ku002.jpg",
       "price":"",
       "sold":false,
@@ -660,7 +660,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt III",
       "filename":"ku003.jpg",
       "price":"",
       "sold":false,
@@ -670,7 +670,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt IV",
       "filename":"ku004.jpg",
       "price":"",
       "sold":false,
@@ -680,7 +680,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt V",
       "filename":"ku005.jpg",
       "price":"",
       "sold":false,
@@ -690,7 +690,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt VI",
       "filename":"ku006.jpg",
       "price":"",
       "sold":false,
@@ -700,7 +700,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt VII",
       "filename":"ku007.jpg",
       "price":"",
       "sold":false,
@@ -710,7 +710,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt VIII",
       "filename":"ku008.jpg",
       "price":"",
       "sold":false,
@@ -720,7 +720,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt IX",
       "filename":"ku009.jpg",
       "price":"",
       "sold":false,
@@ -730,7 +730,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt X",
       "filename":"ku010.jpg",
       "price":"",
       "sold":false,
@@ -740,7 +740,7 @@
       "order":800
    },
    {
-      "title":"",
+      "title":"Landskabeligt XI",
       "filename":"ku011.jpg",
       "price":"",
       "sold":false,
