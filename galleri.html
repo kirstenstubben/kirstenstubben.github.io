@@ -11,53 +11,51 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/icons/site.webmanifest">
-<!--     
+    <!--     
     <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#ffffff">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff"> 
 -->
-<meta name="theme-color" content="#c8c8c6"> 
+    <meta name="theme-color" content="#c8c8c6">
     <meta name="description" content="Kirsten Stubben">
 
 
 
     <title>Kirsten Stubben - Galleri</title>
-    <link rel="stylesheet" href="/style.css"> 
-    <script src="/navbar.js" defer></script> 
-    <script src="/app.js" defer></script> 
+    <link rel="stylesheet" href="/style.css">
+    <script src="/navbar.js" defer></script>
+    <script src="/app.js" defer></script>
     <style>
-
-
         button {
             cursor: pointer;
             padding: 12px 4px;
             margin-right: 3px;
             background: transparent;
-            color:var(--font-color-menu);            
-            border:none;            
+            color: var(--font-color-menu);
+            border: none;
             text-transform: uppercase;
             /*  border:solid red 1px;*/
         }
 
         select {
             cursor: pointer;
-   /*          padding: 12px 4px;
+            /*          padding: 12px 4px;
             margin-right: 3px; */
             background: transparent;
-            color:var(--font-color-menu);            
-         /*    border:none;           */  
-          /*   text-transform: uppercase; */
+            color: var(--font-color-menu);
+            /*    border:none;           */
+            /*   text-transform: uppercase; */
             /*  border:solid red 1px;*/
         }
 
-/*         select:hover {
+        /*         select:hover {
             background: transparent;
             color:var(--font-color-menu);            
             border:none; 
         } */
 
         select {
-/*             -webkit-appearance:none;
+            /*             -webkit-appearance:none;
             -moz-appearance:none;
             -ms-appearance:none;
             appearance: none; */
@@ -82,7 +80,8 @@
             color: var(--font-color-menuactive);
             cursor: auto;
         }
-        button:hover:enabled{
+
+        button:hover:enabled {
             color: var(--font-color-menuhover);
         }
 
@@ -90,9 +89,12 @@
 
 
 
-        h1{display:inline  }
-        h2{
-            font-size: larger; 
+        h1 {
+            display: inline
+        }
+
+        h2 {
+            font-size: larger;
             margin-bottom: 10px;
         }
 
@@ -103,109 +105,162 @@
         }
 
         section {
-            padding: 0 30px;  /* Ved lille skærmbredde sættes padding left right */
+            padding: 0 30px;
+            /* Ved lille skærmbredde sættes padding left right */
         }
 
         .grid-container {
-            margin-top:35px;  
-            width:100%;       
+            margin-top: 35px;
+            width: 100%;
             display: grid;
-            grid-template-columns: 1fr  ;
+            grid-template-columns: 1fr;
             grid-auto-flow: row;
             gap: 40px;
-            align-items: flex-end; 
+            align-items: flex-end;
             /* border:solid green 1px; */
         }
 
-        .grid-container > div {
-            width: 100%; 
+        .grid-container>div {
+            width: 100%;
             height: auto;
-            display: block;   
+            display: block;
         }
 
-        .grid-container > div>a> img {
-            width: 100%; 
+        .grid-container>div>a>img {
+            width: 100%;
         }
 
 
         @media only screen and (min-width: 500px) {
             .grid-container {
-                grid-template-columns: repeat(2,1fr) ;
+                grid-template-columns: repeat(2, 1fr);
             }
 
             section {
-                padding:initial;  
+                padding: initial;
             }
 
             #buttons {
-                display:inline;
-                float: right;    
+                display: inline;
+                float: right;
             }
         }
 
         @media only screen and (min-width: 800px) {
             .grid-container {
-                grid-template-columns: repeat(3,1fr) ;
+                grid-template-columns: repeat(3, 1fr);
             }
         }
 
         @media only screen and (min-width: 1200px) {
             .grid-container {
-                grid-template-columns: repeat(4,1fr) ;
+                grid-template-columns: repeat(4, 1fr);
             }
         }
 
         @media only screen and (min-width: 1500px) {
             .grid-container {
-                grid-template-columns: repeat(5,1fr) ;
+                grid-template-columns: repeat(5, 1fr);
             }
         }
 
         @media only screen and (min-width: 1800px) {
             .grid-container {
-                grid-template-columns: repeat(6,1fr) ;
+                grid-template-columns: repeat(6, 1fr);
             }
         }
 
         @media only screen and (min-width: 2100px) {
             .grid-container {
-                grid-template-columns: repeat(7,1fr) ;
+                grid-template-columns: repeat(7, 1fr);
             }
         }
-
     </style>
 </head>
 
 <body>
-<header>
-	<nav class="navbar">
-	</nav>
-</header>
+    <header>
+        <nav class="navbar">
+        </nav>
+    </header>
     <section>
-         <h1>Galleri</h1> 
-         <div id="buttons">
+        <h1>Galleri</h1>
+        <div id="buttons">
             <select name="btnCategory" id="btnCategory">
-                <option value="alle">Alle malerier</option>                
-                <option value="tilsalg">Til salg</option>
+                <option value="alle">
+                    Alle malerier
+                </option>
+                <option value="tilsalg">
+                    Til salg
+                </option>
                 <optgroup style="font-size: x-small;" label=""></optgroup>
                 <optgroup style="font-size: x-small;" label="Malerier efter kategori:"></optgroup>
-                <option value="tr" data-txt="Siden 2020 har jeg især arbejdet med træer; træer på forskellig vis, med forskellige teknikker, i forskellige rum og tid. Træer skaber variation i billedet og er med til at understøtte kompositionen i maleriet.">Træer</option>
-                <option value="la" data-txt="Jeg arbejder til stadighed på at anvende forskellige teknikker for at fremhæve farver, former og udtryk. At gå en tur i naturen giver mig altid inspiration til at male!" >Landskaber</option>
-                <option value="oh" data-txt="Ved havet ændrer lyset sig efter både årstid og vejrforhold og der skabes et særligt lys, hvor himmel og hav mødes. Et spændende og udfordrende motivfelt.">Havet</option>
-                <option value="bl" data-txt="En udvidelse af havens motiver - Sol og sommer - nu med mere fokus på blomster udformet på forskellig vis og i forskellige sammenhænge. Repertoiret og teknikken udvider sig undervejs og til stadighed.">Havens flora</option>
-                <option value="ss" data-txt="Det var her, det hele begyndte - i haven med al dens flora og grønne løv. Det var det, der først fascinerede mig og for alvor fik mig i gang med penslerne. Der var som regel høns eller andre smådyr i haven. Mange af disse malerier er solgt. Måske vender jeg tilbage til haven igen - på en anden måde.">Sommer og sol</option>
-                <option value="ak" data-txt="At arbejde med akvarel giver dig kun ét skud i bøssen! Det kan til gengæld give et helt særligt udtryk, når man bare ser, hvad der sker undervejs. Eller man kan arbejde efter et givet motiv. Uanset teknik får akvareller et meget let og luftigt udtryk.">Akvareller</option>
-                <option value="ab" data-txt="En blandet gruppe af malerier udført undervejs i min maleperiode med forskellige motiver og teknikker. Men krukkerne har altid fundet vej på lærredet. Der er så mange forskellige former og farver at give af.">Krukker - abstrakte billeder</option>
-                <option value="cb" data-txt="Cirkelbillederne opstod på et kursus, hvor man skulle arbejde med cirkler! Det gav ingen mening for mig, før jeg ”opfandt” metoden at sætte fokus med farverne - inde i cirklens midte. En anderledes måde at arbejde med akryl på papir og størrelse af billedet.">Cirkelbilleder</option>
-	        <option value="ku" data-txt="---">Kultegninger</option>
-		<option value="nw" data-txt="---">The Nordic Way</option>
-	        <option value="hv" data-txt="---">Hvor mennesker var..</option>		
-              </select>
-<!--             <button id="btnAlle" disabled="true">Alle malerier</button> 
+
+                
+
+                <option value="hv"
+                    data-txt="Ideen om at male billeder af øde steder opstod for at års tid siden. Jeg blev fascineret og inspireret af et foto af et mørkt rum, hvor man netop kun kunne ane konjunkturerne af møbler i rummet og hvor lyset fra et vindue var den eneste lyskilde i rummet: det måtte jeg prøve at omsætte til maleri! Siden har jeg arbejdet med andre motiver, hvor jeg har malet på bagsiden af lærredet for at skabe det rå udtryk i billedet. Det er heller ikke alle streger, der er trukket op…. Undervejs i maleprocessen tænker jeg på: Hvem mon boede der? Hvorfor er de rejst? Hvorfor har de forladt rummet, som det stod? Hvor mon de er henne nu? Osv osv. Det er min intention, at beskueren skal få samme tanker…">
+                    Hvor mennesker var..
+                </option>
+
+                <option value="nw"
+                    data-txt="Jeg har fra barnsben været bjergtaget af bjerge: de store kæmper i landskabet, deres forskellige udtryk og dybder, fra de til tider smukt pyntede bjergsider til de barske forrevne klipper, som smyger sig hele vejen op ad den stejle klippeside… Følelsen af at stå lillebitte ved siden af disse kæmper, som i et sekund kan vise de smukkeste, dybe udsigter og i et andet sekund kan fyldes med det værste uvejr – det fascinerer mig. Og jeg lægger så megen energi og kraft i disse malerier for at udtrykke alle disse forskellige følelser, jeg står med i udarbejdelsen af bjergene på lærredet – inspireret at de nordiske landes kæmper: Norge, Island, Færøerne…. Deraf navnet til serien: ”The Nordic Way”vise de smukkeste, dybe udsigter og i et andet sekund kan fyldes med det værste uvejr – det fascinerer mig. Og jeg lægger så megen energi og kraft i disse malerier for at udtrykke alle disse forskellige følelser, jeg står med i udarbejdelsen af bjergene på lærredet – inspireret at de nordiske landes kæmper: Norge, Island, Færøerne…. Deraf navnet til serien: ”The Nordic Way”">
+                    The Nordic Way
+                </option>
+
+                <option value="ku"
+                    data-txt="En pludselig indskydelse fik mig til at arbejde med kul på papir. Jeg opdagede, hvor specielt udtrykket kunne blive ved at variere anvendelsen af kullet: kraftige streger og bløde sammensmeltninger af strøg; alt sammen for at skabe dybde i billedet. I nogle af tegninger har jeg anvendt såvel farvede kulstykker som akvarel som baggrund. Landskaberne kommer til udtryk på en helt anden måde…">
+                    Kultegninger
+                </option>
+
+                <option value="la"
+                    data-txt="Jeg arbejder til stadighed på at anvende forskellige teknikker for at fremhæve farver, former og udtryk. At gå en tur i naturen giver mig altid inspiration til at male!">
+                    Landskaber
+                </option>
+
+                <option value="tr"
+                    data-txt="Siden 2020 har jeg især arbejdet med træer; træer på forskellig vis, med forskellige teknikker, i forskellige rum og tid. Træer skaber variation i billedet og er med til at understøtte kompositionen i maleriet.">
+                    Træer
+                </option>
+
+                <option value="oh"
+                    data-txt="Ved havet ændrer lyset sig efter både årstid og vejrforhold og der skabes et særligt lys, hvor himmel og hav mødes. Et spændende og udfordrende motivfelt.">
+                    Havet
+                </option>
+
+                <option value="ak"
+                    data-txt="At arbejde med akvarel giver dig kun ét skud i bøssen! Det kan til gengæld give et helt særligt udtryk, når man bare ser, hvad der sker undervejs. Eller man kan arbejde efter et givet motiv. Uanset teknik får akvareller et meget let og luftigt udtryk.">
+                    Akvareller
+                </option>
+
+                <option value="ab"
+                    data-txt="En blandet gruppe af malerier udført undervejs i min maleperiode med forskellige motiver og teknikker. Men krukkerne har altid fundet vej på lærredet. Der er så mange forskellige former og farver at give af.">
+                    Krukker - abstrakte billeder
+                </option>
+
+                <option value="cb"
+                    data-txt="Cirkelbillederne opstod på et kursus, hvor man skulle arbejde med cirkler! Det gav ingen mening for mig, før jeg ”opfandt” metoden at sætte fokus med farverne - inde i cirklens midte. En anderledes måde at arbejde med akryl på papir og størrelse af billedet.">
+                    Cirkelbilleder
+                </option>
+
+
+
+                <option value="bl"
+                    data-txt="En udvidelse af havens motiver - Sol og sommer - nu med mere fokus på blomster udformet på forskellig vis og i forskellige sammenhænge. Repertoiret og teknikken udvider sig undervejs og til stadighed.">
+                    Havens flora
+                </option>
+
+                <option value="ss"
+                    data-txt="Det var her, det hele begyndte - i haven med al dens flora og grønne løv. Det var det, der først fascinerede mig og for alvor fik mig i gang med penslerne. Der var som regel høns eller andre smådyr i haven. Mange af disse malerier er solgt. Måske vender jeg tilbage til haven igen - på en anden måde.">
+                    Sommer og sol
+                </option>
+
+            </select>
+            <!--             <button id="btnAlle" disabled="true">Alle malerier</button> 
             <button id="btnTilSalg">Malerier til salg</button> -->
         </div>
 
-         <div id="categoryText"></div>
+        <div id="categoryText"></div>
         <div class="grid-container">
 
         </div>
@@ -213,23 +268,23 @@
 
 
     <footer>
-        
+
     </footer>
-<script>
+    <script>
 
-    function displayImages(data,kuntilsalg){
+        function displayImages(data, kuntilsalg) {
 
-        document.querySelector(".grid-container").innerHTML=data
-            .filter((data)=>{
-                if(kuntilsalg){
-                    return data.hidden!==true && data.sold!==true
-                }
-                return data.hidden!==true 
-            })
-            .sort((a, b) => (a.order > b.order) ? 1 : -1)
-            .map((item)=>{
-                if(kuntilsalg){
-                    return    `
+            document.querySelector(".grid-container").innerHTML = data
+                .filter((data) => {
+                    if (kuntilsalg) {
+                        return data.hidden !== true && data.sold !== true
+                    }
+                    return data.hidden !== true
+                })
+                .sort((a, b) => (a.order > b.order) ? 1 : -1)
+                .map((item) => {
+                    if (kuntilsalg) {
+                        return `
                         <div>
                                 <a href="/billede.html#id=${item.filename}">
                                     <img src="/billeder/${item.filename}" alt="Kirsten Stubben - ${item.title}">
@@ -237,43 +292,43 @@
                                 <span style="float:left">${item.price}</span><span style="float:right">${item.size}</span>
                                 <br/ style="clear:both"><br/>                                                    
                         </div>                        
-                        `  
-                }
-                else {
-                    return    `
+                        `
+                    }
+                    else {
+                        return `
                         <div>
                                 <a href="/billede.html#id=${item.filename}">
                                     <img src="/billeder/${item.filename}" alt="Kirsten Stubben - ${item.title}"  title="${item.title}">
                                 </a>
                         </div>
                         
-                        `  
-                }
-            })
-            .join("\n");            
-    }
+                        `
+                    }
+                })
+                .join("\n");
+        }
 
 
-function displayImagesCat(data,kuntilsalg,category){
+        function displayImagesCat(data, kuntilsalg, category) {
 
-    document.querySelector(".grid-container").innerHTML=data
-        .filter((data)=>{
-            if(category==="alle"){
-                return data.hidden!==true 
-            }
-            else if(category==="tilsalg"){
-                return data.hidden!==true && data.sold!==true
-            }
-            else {
-                
-                return data.hidden!==true && data.filename.substring(0, 2)==category;
-               
-            }            
-        })
-        .sort((a, b) => (a.order > b.order) ? 1 : -1)
-        .map((item)=>{            
-            if(category==="tilsalg"){
-                return    `
+            document.querySelector(".grid-container").innerHTML = data
+                .filter((data) => {
+                    if (category === "alle") {
+                        return data.hidden !== true
+                    }
+                    else if (category === "tilsalg") {
+                        return data.hidden !== true && data.sold !== true
+                    }
+                    else {
+
+                        return data.hidden !== true && data.filename.substring(0, 2) == category;
+
+                    }
+                })
+                .sort((a, b) => (a.order > b.order) ? 1 : -1)
+                .map((item) => {
+                    if (category === "tilsalg") {
+                        return `
                     <div>
                             <a href="/billede.html#id=${item.filename}">
                                 <img src="/billeder/${item.filename}" alt="Kirsten Stubben - ${item.title}">
@@ -281,70 +336,70 @@ function displayImagesCat(data,kuntilsalg,category){
                             <span style="float:left">${item.price}</span><span style="float:right">${item.size}</span>
                             <br/ style="clear:both"><br/>                                                    
                     </div>                        
-                    `  
-            }
-            else {
-                return    `
+                    `
+                    }
+                    else {
+                        return `
                     <div>
                             <a href="/billede.html#id=${item.filename}">
                                 <img src="/billeder/${item.filename}" alt="Kirsten Stubben - ${item.title}"  title="${item.title}">
                             </a>
                     </div>
                     
-                    `  
-            }
-        })
-        .join("\n");            
-}
-   
-/*     const btnAlle=document.getElementById("btnAlle");
-    const btnTilSalg=document.getElementById("btnTilSalg"); */
-    const btnCategory=document.getElementById("btnCategory");
-    
+                    `
+                    }
+                })
+                .join("\n");
+        }
 
-    let myJson=[];
-    fetch('/billeder.json')
-    .then((response) => response.json())
-    .then((json) =>  {
-       myJson=json;
-       console.log(btnCategory.value);
-       //displayImages(json);    
-       displayImagesCat(myJson,false,btnCategory.value);    
-    })
-    .catch(err=>console.error(err));
-
-/*     btnAlle.addEventListener("click",()=>{
-        btnAlle.disabled = true;
-        btnTilSalg.disabled = false;
-        displayImages(myJson,false);
-    })
-
-    btnTilSalg.addEventListener("click",()=>{
-        btnAlle.disabled = false;
-        btnTilSalg.disabled = true;
-        displayImages(myJson,true);
-    }) */
+        /*     const btnAlle=document.getElementById("btnAlle");
+            const btnTilSalg=document.getElementById("btnTilSalg"); */
+        const btnCategory = document.getElementById("btnCategory");
 
 
+        let myJson = [];
+        fetch('/billeder.json')
+            .then((response) => response.json())
+            .then((json) => {
+                myJson = json;
+                console.log(btnCategory.value);
+                //displayImages(json);    
+                displayImagesCat(myJson, false, btnCategory.value);
+            })
+            .catch(err => console.error(err));
 
-    btnCategory.addEventListener("change",(ev)=>{       
+        /*     btnAlle.addEventListener("click",()=>{
+                btnAlle.disabled = true;
+                btnTilSalg.disabled = false;
+                displayImages(myJson,false);
+            })
+        
+            btnTilSalg.addEventListener("click",()=>{
+                btnAlle.disabled = false;
+                btnTilSalg.disabled = true;
+                displayImages(myJson,true);
+            }) */
+
+
+
+        btnCategory.addEventListener("change", (ev) => {
         //console.log(ev.target);
-/**/         const selectedoption=ev.target.options[ev.target.selectedIndex];        
-        const categorytxt = selectedoption.getAttribute("data-txt");
-        document.querySelector("#categoryText").innerHTML="";
-        if(categorytxt){
-            const categoryheader=selectedoption.innerHTML;
-            document.querySelector("#categoryText").innerHTML=`</br>${categoryheader}</br> ${categorytxt}`;     
-        } 
+/**/         const selectedoption = ev.target.options[ev.target.selectedIndex];
+            const categorytxt = selectedoption.getAttribute("data-txt");
+            document.querySelector("#categoryText").innerHTML = "";
+            if (categorytxt) {
+                const categoryheader = selectedoption.innerHTML;
+                document.querySelector("#categoryText").innerHTML = `</br>${categoryheader}</br> ${categorytxt}`;
+            }
 
-        displayImagesCat(myJson,false,ev.target.value);
-    })
-
-
+            displayImagesCat(myJson, false, ev.target.value);
+        })
 
 
-</script>
-    
+
+
+    </script>
+
 </body>
 
 </html>
