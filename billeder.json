@@ -40,16 +40,6 @@
       "order":130
    },
    {
-      "title":"Skov-kig",
-      "filename":"tr079.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 50 cm.",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":135
-   },
-   {
       "title":"Grejsdal view",
       "filename":"tr096.jpg",
       "price":"",
@@ -343,7 +333,7 @@
       "title":"Havestuen",
       "filename":"cb097.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"30 x 30 cm",
       "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
@@ -420,16 +410,6 @@
       "order":400
    },
    {
-      "title":"Oh hav II",
-      "filename":"oh002.jpg",
-      "price":"",
-      "sold":true,
-      "size":"30 x 40 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":401
-   },
-   {
       "title":"Oh hav III",
       "filename":"oh003.jpg",
       "price":"",
@@ -483,7 +463,7 @@
       "title":"Krukker I",
       "filename":"ab089.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"50 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred med lys fyrretræsramme",
       "hidden":false,
@@ -570,16 +550,6 @@
       "order":820
    },
    {
-      "title":"Invisible trees I",
-      "filename":"ak054.jpg",
-      "price":"",
-      "sold":false,
-      "size":"20 x 30 cm",
-      "teknik":"Akvarel med lys træramnme",
-      "hidden":false,
-      "order":300
-   },
-   {
       "title":"Invisible trees III",
       "filename":"ak056.jpg",
       "price":"",
@@ -588,16 +558,6 @@
       "teknik":"Akvarel med lys træramme",
       "hidden":false,
       "order":305
-   },
-   {
-      "title":"Skov",
-      "filename":"ak057.jpg",
-      "price":"",
-      "sold":false,
-      "size":"30 x 40 cm",
-      "teknik":"Akvarel med lys træramme",
-      "hidden":false,
-      "order":306
    },
    {
       "title":"Træ på tværs",
@@ -610,16 +570,6 @@
       "order":310
     }, 
     {
-      "title":"Ene og alenetræ",
-      "filename":"ak059.jpg",
-      "price":"",
-      "sold":false,
-      "size":"20 x 30 cm",
-      "teknik":"Akvarel i lys træramme",
-      "hidden":false,
-      "order":311
-   },
-   {
       "title":"Landskab",
       "filename":"ak081.jpg",
       "price":"",
@@ -630,20 +580,10 @@
       "order":315
    },
    {
-      "title":"Alenetræ i landskab",
-      "filename":"ak058.jpg",
-      "price":"",
-      "sold":false,
-      "size":"30 x 40 cm",
-      "teknik":"Akvarel i lys træramme",
-      "hidden":false,
-      "order":320
-   },
-   {
       "title":"Landskabeligt I",
       "filename":"ku001.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"",
       "teknik":"Kultegning",
       "hidden":false,
@@ -673,7 +613,7 @@
       "title":"Landskabeligt IV",
       "filename":"ku004.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"",
       "teknik":"Kultegning",
       "hidden":false,
@@ -683,7 +623,7 @@
       "title":"Landskabeligt V",
       "filename":"ku005.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"",
       "teknik":"Kultegning",
       "hidden":false,
@@ -763,7 +703,7 @@
       "title":"",
       "filename":"nw004.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"",
       "teknik":"Akryl på lærred",
       "hidden":false,
@@ -783,7 +723,7 @@
       "title":"",
       "filename":"nw006.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"",
       "teknik":"Akryl på lærred",
       "hidden":false,
@@ -793,7 +733,7 @@
       "title":"",
       "filename":"nw007.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"",
       "teknik":"Akryl på lærred",
       "hidden":false,
@@ -803,7 +743,7 @@
       "title":"",
       "filename":"nw008.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"",
       "teknik":"Akryl på lærred",
       "hidden":false,
