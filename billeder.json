@@ -1,15 +1,5 @@
 [
    {
-      "title":"Dusty Weather",
-      "filename":"tr091.jpg",
-      "price":"",
-      "sold":true,
-      "size":"80 x 70 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":120
-   },
-   {
       "title":"Stol på udsigten",
       "filename":"tr088.jpg",
       "price":"",
@@ -18,36 +8,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":117
-   },
-   {
-      "title":"Trees are blue 2",
-      "filename":"tr094.jpg",
-      "price":"",
-      "sold":true,
-      "size":"100 x 120 cm.",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":131
-   },
-   {
-      "title":"Trees are blue",
-      "filename":"tr095.jpg",
-      "price":"",
-      "sold":true,
-      "size":"90 x 90 cm.",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":130
-   },
-   {
-      "title":"Grejsdal view",
-      "filename":"tr096.jpg",
-      "price":"",
-      "sold":true,
-      "size":"90 x 80 cm.",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":100
    },
    {
       "title":"Vejen til Ingenmandsland",
@@ -80,16 +40,6 @@
       "order":134
    },
    {
-      "title":"Blue trees 4 you",
-      "filename":"tr083.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":133
-   },
-   {
       "title":"Lygtetændingstid",
       "filename":"tr101.jpg",
       "price":"",
@@ -100,36 +50,6 @@
       "order":133
    },
    {
-      "title":"Langt højere bjerge",
-      "filename":"la110.jpg",
-      "price":"",
-      "sold":true,
-      "size":"70 x 80 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":160
-   },
-   {
-      "title":"Ved Vejle Å",
-      "filename":"la088.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 70 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":162
-   },
-   {
-      "title":"Blå bjerge",
-      "filename":"la078.jpg",
-      "price":"",
-      "sold":true,
-      "size":"90 x 70 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":131
-   },
-   {
       "title":"Over heden",
       "filename":"la077.jpg",
       "price":"",
@@ -138,16 +58,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":110
-   },
-   {
-      "title":"Solnegang Odsherred I",
-      "filename":"la047.jpg",
-      "price":"",
-      "sold":false,
-      "size":"80 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":142
    },
    {
       "title":"Somewhere",
@@ -183,7 +93,7 @@
       "title":"Udsigt undervejs II",
       "filename":"la045.jpg",
       "price":"",
-      "sold":true,
+      "sold":false,
       "size":"40 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
@@ -193,7 +103,7 @@
       "title": "Udsigt undervej III",
       "filename":"la044.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
@@ -210,36 +120,6 @@
       "order":111
    },
    {
-      "title":"Tulipanfornøjelse",
-      "filename":"bl101.jpg",
-      "price":"",
-      "sold":true,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":700
-   },
-   {
-      "title":"Gule blomster",
-      "filename":"bl100.jpg",
-      "price":"",
-      "sold":true,
-      "size":"60 x 70 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":710
-   },
-   {
-      "title":"Forårsparade",
-      "filename":"bl099.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":711
-   },
-   {
       "title":"På den hvide terrasse",
       "filename":"bl098.jpg",
       "price":"",
@@ -248,16 +128,6 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":712
-   },
-   {
-      "title":"Krukkeliv",
-      "filename":"bl097.jpg",
-      "price":"",
-      "sold":true,
-      "size":"70 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":713
    },
    {
       "title":"Når kirsebærtræerne blomstrer",
@@ -300,16 +170,6 @@
       "order":743
    },
    {
-      "title":"Skyggen af tulipaner",
-      "filename":"bl102.jpg",
-      "price":"",
-      "sold":true,
-      "size":"",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":743
-   },
-   {
       "title":"Udsigt Dollerup bakker",
       "filename":"cb093.jpg",
       "price":"",
@@ -333,7 +193,7 @@
       "title":"Havestuen",
       "filename":"cb097.jpg",
       "price":"",
-      "sold":true,
+      "sold":false,
       "size":"30 x 30 cm",
       "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
@@ -348,67 +208,7 @@
       "teknik":"Akryl på papir - cirkelbillede i sort ramme",
       "hidden":false,
       "order":615
-   },
-   {
-      "title":"Pæleløb",
-      "filename":"cb099.jpg",
-      "price":"",
-      "sold":true,
-      "size":"30 x 40 cm",
-      "teknik":"Akryl på papir - cirkelbillede",
-      "hidden":false,
-      "order":606
-   },
-   {
-      "title":"Te i haven",
-      "filename":"ss091.jpg",
-      "price":"",
-      "sold":true,
-      "size":"60 x 50 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":501
-   },
-   {
-      "title":"Cykeltur i haven",
-      "filename":"ss096.jpg",
-      "price":"",
-      "sold":true,
-      "size":"70 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":503
-   },
-   {
-      "title":"Slap af",
-      "filename":"ss097.jpg",
-      "price":"",
-      "sold":true,
-      "size":"70 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":504
-   },
-   {
-      "title":"Cykelhvil",
-      "filename":"ss098.jpg",
-      "price":"",
-      "sold":true,
-      "size":"70 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":505
-   },
-   {
-      "title":"Oh hav I",
-      "filename":"oh001.jpg",
-      "price":"",
-      "sold":true,
-      "size":"30 x 40 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":400
-   },
+   }
    {
       "title":"Oh hav III",
       "filename":"oh003.jpg",
@@ -448,16 +248,6 @@
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
       "order":411
-   },
-   {
-      "title":"Høns i rosenhaven",
-      "filename":"ss085.jpg",
-      "price":"",
-      "sold":true,
-      "size":"90 x 70 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":506
    },
    {
       "title":"Krukker I",
@@ -520,7 +310,7 @@
       "order":810
    },
    {
-      "title":"Hvor mennesker var.. IV",
+      "title":"Hvor mennesker var.. III",
       "filename":"hv094.jpg",
       "price":"",
       "sold":false,
@@ -530,11 +320,11 @@
       "order":825
    },
    {
-      "title":"Hvir mennesker var...IV",
+      "title":"Hvor mennesker var...IV",
       "filename":"hv095.jpg",
       "price":"",
       "sold":false,
-      "size":"",
+      "size":"120 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":825
@@ -544,20 +334,10 @@
       "filename":"hv086.jpg",
       "price":"",
       "sold":false,
-      "size":"90 x 120 cm",
+      "size":"120 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":820
-   },
-   {
-      "title":"Invisible trees III",
-      "filename":"ak056.jpg",
-      "price":"",
-      "sold":false,
-      "size":"20 x 30 cm",
-      "teknik":"Akvarel med lys træramme",
-      "hidden":false,
-      "order":305
    },
    {
       "title":"Træ på tværs",
@@ -573,7 +353,7 @@
       "title":"Landskab",
       "filename":"ak081.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"20 x 30 cm",
       "teknik":"Akvarel i lys træramme",
       "hidden":false,
@@ -634,18 +414,8 @@
       "filename":"ku006.jpg",
       "price":"",
       "sold":false,
-      "size":"",
-      "teknik":"Kultegning",
-      "hidden":false,
-      "order":800
-   },
-   {
-      "title":"Landskabeligt VII",
-      "filename":"ku007.jpg",
-      "price":"",
-      "sold":false,
-      "size":"",
-      "teknik":"Kultegning",
+      "size":"50 x 40 cm ",
+      "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
       "order":800
    },
@@ -654,8 +424,8 @@
       "filename":"ku008.jpg",
       "price":"",
       "sold":false,
-      "size":"",
-      "teknik":"Kultegning",
+      "size":"50 x 40 cm",
+      "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
       "order":800
    },
@@ -665,7 +435,7 @@
       "price":"",
       "sold":false,
       "size":"",
-      "teknik":"Kultegning",
+      "teknik":"Kultegning i sort ramme",
       "hidden":false,
       "order":800
    },
@@ -675,7 +445,7 @@
       "price":"",
       "sold":false,
       "size":"",
-      "teknik":"Kultegning",
+      "teknik":"Kultegning i sort ramme",
       "hidden":false,
       "order":800
    },
@@ -685,36 +455,26 @@
       "price":"",
       "sold":false,
       "size":"",
-      "teknik":"Kultegning",
+      "teknik":"Kultegning i sort ramme",
       "hidden":false,
       "order":800
    },
    {
-      "title":"",
-      "filename":"nw001.jpg",
-      "price":"",
-      "sold":false,
-      "size":"",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":900
-   },
-   {
-      "title":"",
+      "title":"The Nordic way II",
       "filename":"nw004.jpg",
       "price":"",
       "sold":true,
-      "size":"",
+      "size":"90 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":900
    },
    {
-      "title":"",
+      "title":"Tha Nordic way III",
       "filename":"nw005.jpg",
       "price":"",
       "sold":false,
-      "size":"",
+      "size":"90 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":900
@@ -730,17 +490,7 @@
       "order":900
    },
    {
-      "title":"",
-      "filename":"nw007.jpg",
-      "price":"",
-      "sold":true,
-      "size":"",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":900
-   },
-   {
-      "title":"",
+      "title":"Tha Nordic Way",
       "filename":"nw008.jpg",
       "price":"",
       "sold":true,
