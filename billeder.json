@@ -1,4 +1,4 @@
-[
+   [
    {
       "title":"Stol på udsigten",
       "filename":"tr088.jpg",
@@ -44,7 +44,7 @@
       "filename":"tr101.jpg",
       "price":"",
       "sold":true,
-      "size":"",
+      "size":"90 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":133
