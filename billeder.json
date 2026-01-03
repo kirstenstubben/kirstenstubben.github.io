@@ -50,16 +50,6 @@
       "order":133
    },
    {
-      "title":"Over heden",
-      "filename":"la077.jpg",
-      "price":"",
-      "sold":true,
-      "size":"80 x 100 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":110
-   },
-   {
       "title":"Somewhere",
       "filename":"la037.jpg",
       "price":"",
@@ -93,7 +83,7 @@
       "title":"Udsigt undervejs II",
       "filename":"la045.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"40 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
@@ -103,7 +93,7 @@
       "title": "Udsigt undervej III",
       "filename":"la044.jpg",
       "price":"",
-      "sold":true,
+      "sold":false,
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
@@ -284,7 +274,7 @@
       "filename":"ab087.jpg",
       "price":"",
       "sold":false,
-      "size":"60 x 50 cm",
+      "size":"50 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred i lys fyrretræsramme",
       "hidden":false,
       "order":902
@@ -430,16 +420,6 @@
       "order":800
    },
    {
-      "title":"Landskabeligt IX",
-      "filename":"ku009.jpg",
-      "price":"",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Kultegning i sort ramme",
-      "hidden":false,
-      "order":800
-   },
-   {
       "title":"Landskabeligt X",
       "filename":"ku010.jpg",
       "price":"",
@@ -474,7 +454,7 @@
       "filename":"nw005.jpg",
       "price":"",
       "sold":false,
-      "size":"90 x 90 cm",
+      "size":"60 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":900
@@ -490,7 +470,7 @@
       "order":900
    },
    {
-      "title":"Tha Nordic Way III",
+      "title":"The Nordic Way III",
       "filename":"nw008.jpg",
       "price":"",
       "sold":true,
@@ -499,14 +479,4 @@
       "hidden":false,
       "order":900
    },
-   {
-      "title":"The Nordic Way IV",
-      "filename":"nw009.jpg",
-      "price":"",
-      "sold":false,
-      "size":"80 x 100 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":900
-   }
-   ]
+     ]
