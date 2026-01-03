@@ -20,6 +20,56 @@
       "order":150
    },
    {
+      "title":"Stille leben",
+      "filename":"la069.jpg",
+      "price":"",
+      "sold":false,
+      "size":"60 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":120
+   },  
+   { 
+      "title":"Abstract Nature",
+      "filename":"la063.jpg",
+      "price":"",
+      "sold":false,
+      "size":"40 x 55 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":125
+   }, 
+   {
+      "title":"Blue trees end",
+      "filename":"tr090.jpg",
+      "price":"",
+      "sold":false,
+      "size":"90 x 80 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":150
+   }, 
+   {
+      "title":"Trees are blue 4 you",
+      "filename":"tr090.jpg",
+      "price":"",
+      "sold":false,
+      "size":"80 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":155
+   }, 
+   {
+      "title":"The Nordic Way IX",
+      "filename":"nw012.jpg",
+      "price":"",
+      "sold":false,
+      "size":"80 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":110
+   },
+   {
       "title":"Månegang",
       "filename":"tr099.jpg",
       "price":"",
@@ -38,6 +88,36 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":134
+   },
+   {
+      "title":"Reviuw Icelandia V",
+      "filename":"nw013.jpg",
+      "price":"",
+      "sold":true,
+      "size":"60 x 80 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":151
+   },
+   {
+      "title":"Landskabeligt As Vig",
+      "filename":"ku020.jpg",
+      "price":"",
+      "sold":false,
+      "size":"40 x 50 cm",
+      "teknik":"Kultegning i sort ramme",
+      "hidden":false,
+      "order":151
+   },
+   {
+      "title":"Hvor mennesker var ... VII ",
+      "filename":"hv085.jpg",
+      "price":"",
+      "sold":false,
+      "size":"120 x 90 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":155
    },
    {
       "title":"Lygtetændingstid",
@@ -68,6 +148,26 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":130
+   },
+   {
+      "title":"Hvor mennesker var ...VIII ",
+      "filename":"hv086.jpg",
+      "price":"",
+      "sold":false,
+      "size":"120 x 90 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":156
+   },
+   {
+      "title":"Hvor mennesker var... IX",
+      "filename":"hv087.jpg",
+      "price":"",
+      "sold":false,
+      "size":"90 x 120 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":160
    },
    {
       "title":"Udsigt undervejs I",
