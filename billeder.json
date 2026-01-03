@@ -38,6 +38,16 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":125
+   },
+   { 
+      "title":"The Nordic Way V",
+      "filename":"nw010.jpg",
+      "price":"",
+      "sold":false,
+      "size":"90 x 80 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order"130
    }, 
    {
       "title":"Blue trees end",
