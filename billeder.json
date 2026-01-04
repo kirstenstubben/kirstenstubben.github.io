@@ -477,7 +477,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
-      "order":800
+      "order":805
    },
    {
       "title":"Landskabeligt III",
@@ -487,7 +487,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
-      "order":800
+      "order":810
    },
    {
       "title":"Landskabeligt IV",
@@ -497,7 +497,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":800
+      "order":815
    },
    {
       "title":"Landskabeligt V",
@@ -507,7 +507,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":800
+      "order":820
    },
    {
       "title":"Landskabeligt VI",
@@ -517,7 +517,7 @@
       "size":"50 x 40 cm ",
       "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
-      "order":800
+      "order":825
    },
    {
       "title":"Landskabeligt VIII",
@@ -527,7 +527,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
-      "order":800
+      "order":830
    },
    {
       "title":"Landskabeligt X",
@@ -537,7 +537,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":800
+      "order":835
    },
    {
       "title":"Landskabeligt XI",
@@ -547,10 +547,10 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":800
+      "order":840
    },
    {
-      "title":"The Nordic way II",
+      "title":"The Nordic Way II",
       "filename":"nw004.jpg",
       "price":"",
       "sold":true,
@@ -560,14 +560,14 @@
       "order":900
    },
    {
-      "title":"Tha Nordic way III",
+      "title":"Tha Nordic Way III",
       "filename":"nw005.jpg",
       "price":"",
       "sold":false,
       "size":"60 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":900
+      "order":905
    },
    {
       "title":"Reviuw Icelandia",
@@ -577,7 +577,7 @@
       "size":"90 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":900
+      "order":910
    },
    {
       "title":"The Nordic Way III",
@@ -587,6 +587,6 @@
       "size":"90 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":900
-   }
+      "order":915
+   },
      ]
