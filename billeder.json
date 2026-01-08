@@ -7,7 +7,7 @@
       "size":"80 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":117
+      "order":250
    },
    {
       "title":"Vejen til Ingenmandsland",
@@ -17,7 +17,7 @@
       "size":"60 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":150
+      "order":280
    },
    {
       "title":"Stille leben",
@@ -27,8 +27,28 @@
       "size":"60 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":120
+      "order":225
    },  
+   {
+      "title":"Landskabeligheder Vejle rundt I",
+      "filename":"la091.jpg",
+      "price":"",
+      "sold":false,
+      "size":"40 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":200
+   },
+   {
+      "title":"Landskabeligheder Vejle rundt II",
+      "filename":"la092.jpg",
+      "price":"",
+      "sold":false,
+      "size":"40 x 40 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":205
+   },
    { 
       "title":"Abstract Nature",
       "filename":"la063.jpg",
@@ -37,7 +57,7 @@
       "size":"40 x 55 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":125
+      "order":210
    },
    { 
       "title":"The Nordic Way V",
@@ -57,17 +77,7 @@
       "size":"90 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":150
-   }, 
-   {
-      "title":"Trees are blue 4 you",
-      "filename":"tr090.jpg",
-      "price":"",
-      "sold":false,
-      "size":"80 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":155
+      "order":255
    }, 
    {
       "title":"The Nordic Way IX",
@@ -87,7 +97,7 @@
       "size":"60 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":151
+      "order":281
    },
    {
       "title":"Blue trees in a row",
@@ -97,7 +107,7 @@
       "size":"90 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":134
+      "order":252
    },
    {
       "title":"Reviuw Icelandia V",
@@ -108,6 +118,16 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":151
+   },
+   {
+      "title":"Havens flora I",
+      "filename":"bl083.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":450
    },
    {
       "title":"Landskabeligt As Vig",
@@ -137,7 +157,7 @@
       "size":"90 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":133
+      "order":270
    },
    {
       "title":"Somewhere",
@@ -187,7 +207,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":155
+      "order":215
    },
    {
       "title":"Udsigt undervejs II",
@@ -197,7 +217,7 @@
       "size":"40 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":156
+      "order":217
    },
    {
       "title":"Udsigt undervejs III",
@@ -207,7 +227,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":157
+      "order":219
    },
    {
       "title":"På vandring",
@@ -217,7 +237,7 @@
       "size":"70 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":111
+      "order":220
    },
    {
       "title":"Street Art, Danmark",
@@ -227,7 +247,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":741
+      "order":460
    },
    {
       "title":"Street Art Nyans, Frankrig",
@@ -237,7 +257,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":742
+      "order":461
    },
    {
       "title":"Street Art Vietnam",
@@ -247,7 +267,7 @@
       "size":"50 x 40 cm",
       "teknik":"Akryl på lærred med lys træramme",
       "hidden":false,
-      "order":743
+      "order":462
    },
    {
       "title":"Udsigt Dollerup bakker",
@@ -258,6 +278,46 @@
       "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
       "order":601
+   },
+   {
+      "title":"Havens flora I",
+      "filename":"bl083.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":450
+   },
+   {
+      "title":"Havens flora II",
+      "filename":"bl084.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":451
+   },
+   {
+      "title":"As Vig",
+      "filename":"ku021.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 60 cm",
+      "teknik":"Kultegning i sort ramme",
+      "hidden":false,
+      "order":170
+   },
+   {
+      "title":"Krukkerier VI",
+      "filename":"ab082.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 50 cm",
+      "teknik":"Vådt i vådt - akryl på lærred",
+      "hidden":false,
+      "order":360
    },
    {
       "title":"Køkkeninteriør",
