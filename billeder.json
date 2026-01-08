@@ -67,7 +67,7 @@
       "size":"90 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":130
+      "order":120
    }, 
    {
       "title":"Blue trees end",
@@ -87,7 +87,7 @@
       "size":"80 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":110
+      "order":130
    },
    {
       "title":"Månegang",
@@ -117,7 +117,7 @@
       "size":"60 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":151
+      "order":110
    },
    {
       "title":"Havens flora I",
@@ -147,7 +147,7 @@
       "size":"120 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":155
+      "order":20
    },
    {
       "title":"Lygtetændingstid",
@@ -167,7 +167,7 @@
       "size":"90 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":112
+      "order":230
    },
    {
       "title":"I det fjerne",
@@ -197,7 +197,7 @@
       "size":"90 x 120 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":160
+      "order":25
    },
    {
       "title":"Udsigt undervejs I",
@@ -577,7 +577,7 @@
       "size":"90 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":900
+      "order":105
    },
    {
       "title":"Tha Nordic Way III",
@@ -587,7 +587,7 @@
       "size":"60 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":905
+      "order":107
    },
    {
       "title":"Reviuw Icelandia",
@@ -597,16 +597,16 @@
       "size":"90 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":910
+      "order":100
    },
    {
-      "title":"The Nordic Way III",
+      "title":"The Nordic Way IV",
       "filename":"nw008.jpg",
       "price":"",
       "sold":true,
       "size":"90 x 100 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":915
+      "order":115
    }  
 ]
