@@ -187,7 +187,7 @@
       "size":"120 x 90 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":156
+      "order":15
    },
    {
       "title":"Hvor mennesker var... IX",
@@ -300,14 +300,14 @@
       "order":451
    },
    {
-      "title":"As Vig",
+      "title":"As Vig II",
       "filename":"ku021.jpg",
       "price":"",
       "sold":false,
       "size":"50 x 60 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":170
+      "order":153
    },
    {
       "title":"Krukkerier VI",
@@ -317,7 +317,7 @@
       "size":"50 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred",
       "hidden":false,
-      "order":360
+      "order":312
    },
    {
       "title":"Køkkeninteriør",
@@ -397,7 +397,7 @@
       "size":"50 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred i lys fyrretræsramme",
       "hidden":false,
-      "order":900
+      "order":300
    },
    {
       "title":"Krukker II",
@@ -407,7 +407,7 @@
       "size":"50 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred i lys fyrretræsramme",
       "hidden":false,
-      "order":901
+      "order":304
    },
    {
       "title":"Krukker V",
@@ -417,7 +417,7 @@
       "size":"50 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred i lys fyrretræsramme",
       "hidden":false,
-      "order":905
+      "order":310
    },
    {
       "title":"Krukker III",
@@ -427,7 +427,7 @@
       "size":"50 x 50 cm",
       "teknik":"Vådt i vådt - akryl på lærred i lys fyrretræsramme",
       "hidden":false,
-      "order":902
+      "order":306
    },
    {
       "title":"Hvor mennesker var...I",
@@ -487,7 +487,7 @@
       "size":" 50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":800
+      "order":155
    },
    {
       "title":"Landskabeligt II",
@@ -497,7 +497,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
-      "order":805
+      "order":157
    },
    {
       "title":"Landskabeligt III",
@@ -507,7 +507,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
-      "order":810
+      "order":158
    },
    {
       "title":"Landskabeligt IV",
@@ -517,7 +517,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":815
+      "order":160
    },
    {
       "title":"Landskabeligt V",
@@ -527,7 +527,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":820
+      "order":162
    },
    {
       "title":"Landskabeligt VI",
@@ -537,7 +537,7 @@
       "size":"50 x 40 cm ",
       "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
-      "order":825
+      "order":164
    },
    {
       "title":"Landskabeligt VIII",
@@ -547,7 +547,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme med museumsglas",
       "hidden":false,
-      "order":830
+      "order":166
    },
    {
       "title":"Landskabeligt X",
@@ -557,7 +557,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":835
+      "order":168
    },
    {
       "title":"Landskabeligt XI",
@@ -567,7 +567,7 @@
       "size":"50 x 40 cm",
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
-      "order":840
+      "order":170
    },
    {
       "title":"The Nordic Way II",
