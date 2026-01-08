@@ -357,7 +357,7 @@
       "size":"30 x 40 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":403
+      "order":305
    },
    {
       "title":"Udsigt i udkanten",
@@ -367,7 +367,7 @@
       "size":"40 x 50 cm",
       "teknik":"Akryl på lærred i lys træramme",
       "hidden":false,
-      "order":401
+      "order":300
    },
    {
       "title":"Parasolvejr",
@@ -377,7 +377,7 @@
       "size":"40 x 50 cm",
       "teknik":"Akryl på lærred i lys træramme",
       "hidden":false,
-      "order":410
+      "order":310
    },
    {
       "title":"Måge på spil",
@@ -387,7 +387,7 @@
       "size":"40 x 50 cm",
       "teknik":"Akryl på lærred i lys træramme",
       "hidden":false,
-      "order":411
+      "order":312
    },
    {
       "title":"Krukker I",
