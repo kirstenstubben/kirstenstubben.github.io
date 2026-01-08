@@ -177,7 +177,7 @@
       "size":"100 x 120 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":130
+      "order":228
    },
    {
       "title":"Hvor mennesker var ...VIII ",
@@ -327,7 +327,7 @@
       "size":"30 x 30 cm",
       "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
-      "order":613
+      "order":400
    },
    {
       "title":"Havestuen",
@@ -337,7 +337,7 @@
       "size":"30 x 30 cm",
       "teknik":"Akryl på papir - cirkelbillede i lys træramme",
       "hidden":false,
-      "order":614
+      "order":402
    },
    {
       "title":"Afslapning",
@@ -347,7 +347,7 @@
       "size":"40 x 30 cm",
       "teknik":"Akryl på papir - cirkelbillede i sort ramme",
       "hidden":false,
-      "order":615
+      "order":404
    },
    {
       "title":"Oh hav III",
@@ -437,7 +437,7 @@
       "size":"60 x 60 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":800
+      "order":10
    },
    {
       "title":"Hvor mennesker var...II",
@@ -447,7 +447,7 @@
       "size":"50 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":810
+      "order":12
    },
    {
       "title":"Hvor mennesker var.. III",
@@ -457,7 +457,7 @@
       "size":"50 x 50 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
-      "order":825
+      "order":14
    },
    {
       "title":"Hvor mennesker var...IV",
@@ -467,7 +467,7 @@
       "size":"120 x 90 cm",
       "teknik":"Akryl på bagsiden af lærredet",
       "hidden":false,
-      "order":825
+      "order":16
    },
    {
       "title":"Hvor mennesker var...V",
@@ -477,7 +477,7 @@
       "size":"120 x 90 cm",
       "teknik":"Akryl på bagsiden af lærredet",
       "hidden":false,
-      "order":820
+      "order":18
    },
    {
       "title":"Landskabeligt I",
