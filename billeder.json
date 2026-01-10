@@ -130,26 +130,6 @@
       "order":110
    },
    {
-      "title":"Havens flora I",
-      "filename":"bl083.jpg",
-      "price":"",
-      "sold":false,
-      "size":"50 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":450
-   },
-   {
-      "title":"Landskabeligt As Vig",
-      "filename":"ku020.jpg",
-      "price":"",
-      "sold":false,
-      "size":"40 x 50 cm",
-      "teknik":"Kultegning i sort ramme",
-      "hidden":false,
-      "order":151
-   },
-   {
       "title":"Hvor mennesker var ... VII ",
       "filename":"hv085.jpg",
       "price":"",
@@ -500,16 +480,6 @@
       "order":16
    },
    {
-      "title":"Hvor mennesker var...V",
-      "filename":"hv086.jpg",
-      "price":"",
-      "sold":false,
-      "size":"120 x 90 cm",
-      "teknik":"Akryl på bagsiden af lærredet",
-      "hidden":false,
-      "order":18
-   },
-   {
       "title":"Landskabeligt I",
       "filename":"ku001.jpg",
       "price":"",
@@ -588,16 +558,6 @@
       "teknik":"Kultegning i sort ramme",
       "hidden":false,
       "order":168
-   },
-   {
-      "title":"Landskabeligt XI",
-      "filename":"ku011.jpg",
-      "price":"",
-      "sold":false,
-      "size":"50 x 40 cm",
-      "teknik":"Kultegning i sort ramme",
-      "hidden":false,
-      "order":170
    },
    {
       "title":"The Nordic Way II",
