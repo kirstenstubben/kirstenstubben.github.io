@@ -13,7 +13,7 @@
       "title":"Krukke med grene",
       "filename":"ab081.jpg",
       "price":"",
-      "sold":,
+      "sold":false,
       "size":"90 x 120 cm",
       "teknik":"Akryl - malet på bagsiden af lærredet",
       "hidden":false,
@@ -320,6 +320,16 @@
       "order":205
    },
    {
+      "title":"Rewieuv Icelandia IV - 2/20",
+      "filename":"la058.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 60 cm",
+      "teknik":"Giclée kunsttryk i lys egetræsramme med museumsglas",
+      "hidden":false,
+      "order":203
+   },
+   {
       "title":"As Vig II",
       "filename":"ku021.jpg",
       "price":"",
@@ -479,13 +489,53 @@
       "hidden":false,
       "order":14
    },
-   {
+    {
+      "title":"Hvor mennesker var.. tryk/2",
+      "filename":"hv083.jpg",
+      "price":"",
+      "sold":false,
+      "size":"60 x 50 cm",
+      "teknik":"Giclée kunsttryk i lys egetræsramme med museumsglas",
+      "hidden":false,
+      "order":07
+   },
+    {
+      "title":"Hvor mennesker var.. tryk/1",
+      "filename":"hv084.jpg",
+      "price":"",
+      "sold":false,
+      "size":"50 x 60 cm",
+      "teknik":"Giclée kunsttryk i lys egetræsramme med museumsglas",
+      "hidden":false,
+      "order":08
+   },
+    {
+      "title":"Hvor mennesker var.. tryk/3",
+      "filename":"hv082.jpg",
+      "price":"",
+      "sold":false,
+      "size":"60 x 50 cm",
+      "teknik":"Giclée kunsttryk i lys egetræsramme med museumsglas",
+      "hidden":false,
+      "order":06
+   },
+    {
+      "title":"Hvor mennesker var.. tryk/4",
+      "filename":"hv081.jpg",
+      "price":"",
+      "sold":false,
+      "size":"60 x 50 cm",
+      "teknik":"Giclée kunsttryk i lys egetræsramme med museumsglas",
+      "hidden":false,
+      "order":05
+   },
+    {
       "title":"Hvor mennesker var...IV",
       "filename":"hv095.jpg",
       "price":"",
       "sold":false,
       "size":"120 x 90 cm",
-      "teknik":"Akryl på bagsiden af lærredet",
+      "teknik":"Akryl malet på bagsiden af lærredet",
       "hidden":false,
       "order":16
    },
