@@ -40,16 +40,6 @@
       "order":251
    },
    {
-      "title":"Stille leben",
-      "filename":"la069.jpg",
-      "price":"",
-      "sold":false,
-      "size":"60 x 60 cm",
-      "teknik":"Akryl på lærred",
-      "hidden":false,
-      "order":225
-   },  
-   {
       "title":"Landskabeligheder Vejle rundt I",
       "filename":"la091.jpg",
       "price":"",
@@ -83,7 +73,7 @@
       "title":"The Nordic Way V",
       "filename":"nw010.jpg",
       "price":"",
-      "sold":false,
+      "sold":true,
       "size":"90 x 80 cm",
       "teknik":"Akryl på lærred",
       "hidden":false,
