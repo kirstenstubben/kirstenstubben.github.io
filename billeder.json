@@ -19,7 +19,17 @@
       "hidden":false,
       "order":350
    },
-    {
+   {
+      "title":"The Nordic Way X",
+      "filename":".nw003jpg",
+      "price":"",
+      "sold":false,
+      "size":"90 x 70 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":125
+   },
+   { 
       "title":"Vejen til Ingenmandsland",
       "filename":"tr098.jpg",
       "price":"",
@@ -29,7 +39,17 @@
       "hidden":false,
       "order":280
    },
-    {
+   {
+      "title":"The Nordic Way XI",
+      "filename":"nw014.jpg",
+      "price":"",
+      "sold":false,
+      "size":"80 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":127
+   },
+   {
       "title":"Blue trees 4 you",
       "filename":"tr075.jpg",
       "price":"",
@@ -48,6 +68,16 @@
       "teknik":"Akryl på lærred",
       "hidden":false,
       "order":211
+   },
+   {
+      "title":"Hvor mennesker var X",
+      "filename":"hv092.jpg",
+      "price":"",
+      "sold":false,
+      "size":"80 x 60 cm",
+      "teknik":"Akryl på lærred",
+      "hidden":false,
+      "order":30
    },
    {
       "title":"Landskabeligheder Vejle rundt II",
